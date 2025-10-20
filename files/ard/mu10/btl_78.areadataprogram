@@ -1,0 +1,7 @@
+Program 0x4E
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x2018
+Party W_FRIEND
+Mission 0x60 "MU10_MS203"
+Spawn "b_60"

@@ -1,0 +1,8 @@
+Program 0x50
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8d1
+Party DEFAULT
+Mission 0xC2 "TT04_MS901"
+Unk1d 3
+Spawn "b_44"

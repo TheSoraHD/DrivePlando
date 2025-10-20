@@ -1,0 +1,764 @@
+# Agrabah
+28:
+  ItemId: 3 # Agrabah, Dark Shard is now Ether
+29:
+  ItemId: 1 # Agrabah, Mythril Shard is now Potion
+30:
+  ItemId: 3 # Agrabah, Hi-Potion is now Ether
+132:
+  ItemId: 1 # Agrabah, AP Boost is now Potion
+133:
+  ItemId: 276 # Agrabah, Mythril Stone is now Power Boost
+249:
+  ItemId: 1 # Agrabah, Mythril Shard is now Potion
+501:
+  ItemId: 3 # Agrabah, Serenity Shard is now Ether
+31:
+  ItemId: 1 # Bazaar, Mythril Gem is now Potion
+32:
+  ItemId: 277 # Bazaar, Power Shard is now Magic Boost
+33:
+  ItemId: 3 # Bazaar, Hi-Potion is now Ether
+134:
+  ItemId: 3 # Bazaar, AP Boost is now Ether
+135:
+  ItemId: 1 # Bazaar, Mythril Shard is now Potion
+136:
+  ItemId: 65 # Palace Walls, Skill Ring is now Draw Ring
+520:
+  ItemId: 3 # Palace Walls, Mythril Stone is now Ether
+250:
+  ItemId: 4 # The Cave of Wonders Entrance, Power Stone is now Elixir
+251:
+  ItemId: 1 # The Cave of Wonders Entrance, Mythril Shard is now Potion
+35:
+  ItemId: 1 # Valley of Stone, Mythril Stone is now Potion
+36:
+  ItemId: 278 # Valley of Stone, AP Boost is now Defense Boost
+137:
+  ItemId: 3 # Valley of Stone, Mythril Shard is now Ether
+138:
+  ItemId: 3 # Valley of Stone, Hi-Potion is now Ether
+487:
+  ItemId: 275 # Chasm of Challenges, Cave of Wonders Map is now High Drive Recovery
+37:
+  ItemId: 7 # Chasm of Challenges, AP Boost is now Megalixir
+502:
+  ItemId: 473 # Treasure Room, AP Boost is now Armor Slot Up
+503:
+  ItemId: 474 # Treasure Room, Serenity Gem is now Accessory Slot Up
+34:
+  ItemId: 7 # Ruined Chamber, Torn Pages is now Megalixir
+486:
+  ItemId: 133 # Ruined Chamber, Ruins Map is now Shock Charm+
+# Beast's Castle
+39:
+  ItemId: 276 # Courtyard, AP Boost is now Power Boost
+40:
+  ItemId: 277 # Courtyard, Hi-Potion is now Magic Boost
+505:
+  ItemId: 278 # Courtyard, Mythril Shard is now Defense Boost
+46:
+  ItemId: 3 # Belle's Room, Castle Map is now Ether
+240:
+  ItemId: 1 # Belle's Room, Mega Recipe is now Potion
+63:
+  ItemId: 3 # The East Wing, Mythril Shard is now Ether
+155:
+  ItemId: 274 # The East Wing, Tent is now Drive Recovery
+41:
+  ItemId: 4 # The West Hall, Hi-Potion is now Elixir
+206:
+  ItemId: 3 # The West Hall, Mythril Shard is now Ether
+207:
+  ItemId: 1 # The West Hall, Power Shard is now Potion
+208:
+  ItemId: 3 # The West Hall, Mythril Shard is now Ether
+158:
+  ItemId: 1 # The West Hall, AP Boost is now Potion
+159:
+  ItemId: 463 # The West Hall, Bright Stone is now Item Slot Up
+239:
+  ItemId: 275 # Dungeon, Basement Map is now High Drive Recovery
+43:
+  ItemId: 275 # Dungeon, AP Boost is now High Drive Recovery
+44:
+  ItemId: 3 # Secret Passage, Mythril Shard is now Ether
+168:
+  ItemId: 3 # Secret Passage, Hi-Potion is now Ether
+45:
+  ItemId: 3 # Secret Passage, Lucid Shard is now Ether
+42:
+  ItemId: 422 # The West Wing, Mythril Shard is now MP Hastega
+164:
+  ItemId: 4 # The West Wing, Tent is now Elixir
+241:
+  ItemId: 472 # The Beast's Room, Blazing Shard is now Drive Gauge Up
+# Cavern of Remembrance
+562:
+  ItemId: 276 # Depths, AP Boost is now Power Boost
+563:
+  ItemId: 277 # Depths, Power Crystal is now Magic Boost
+564:
+  ItemId: 278 # Depths, Frost Crystal is now Defense Boost
+565:
+  ItemId: 66 # Depths, Manifest Illusion is now Full Bloom+
+566:
+  ItemId: 58 # Depths, AP Boost is now Shadow Archive+
+567:
+  ItemId: 7 # Depths Upper Level, Remembrance Gem is now Megalixir
+568:
+  ItemId: 463 # Mining Area, Serenity Gem is now Item Slot Up
+569:
+  ItemId: 473 # Mining Area, AP Boost is now Armor Slot Up
+570:
+  ItemId: 278 # Mining Area, Serenity Crystal is now Defense Boost
+571:
+  ItemId: 277 # Mining Area, Manifest Illusion is now Magic Boost
+572:
+  ItemId: 276 # Mining Area, Serenity Gem is now Power Boost
+573:
+  ItemId: 474 # Mining Area, Dark Remembrance Map is now Accessory Slot Up
+574:
+  ItemId: 276 # Engine Chamber, Serenity Crystal is now Power Boost
+575:
+  ItemId: 277 # Engine Chamber, Remembrance Crystal is now Magic Boost
+576:
+  ItemId: 278 # Engine Chamber, AP Boost is now Defense Boost
+577:
+  ItemId: 473 # Engine Chamber, Manifest Illusion is now Armor Slot Up
+578:
+  ItemId: 277 # Mineshaft Lower Level, AP Boost is now Magic Boost
+580:
+  ItemId: 277 # Mineshaft Lower Level, Depths of Remembrance Map is now Magic Boost
+581:
+  ItemId: 157 # Mineshaft Mid Level, Power Boost is now Grand Ribbon
+579:
+  ItemId: 7 # Mineshaft Upper Level, AP Boost is now Megalixir
+582:
+  ItemId: 7 # Mineshaft Upper Level, Magic Boost is now Megalixir
+585:
+  ItemId: 29 # Garden of Assemblage, Garden of Assemblage Map is now Final Form
+586:
+  ItemId: 563 # Garden of Assemblage, Lost Illusion is now Limit Form
+590:
+  ItemId: 31 # Garden of Assemblage, Proof of Nonexistence is now Master Form
+# Disney Castle
+16:
+  ItemId: 276 # Courtyard, Mythril Shard is now Power Boost
+17:
+  ItemId: 277 # Courtyard, Star Recipe is now Magic Boost
+18:
+  ItemId: 278 # Courtyard, AP Boost is now Defense Boost
+92:
+  ItemId: 1 # Courtyard, Mythril Stone is now Potion
+93:
+  ItemId: 3 # Courtyard, Blazing Stone is now Ether
+247:
+  ItemId: 4 # Courtyard, Blazing Shard is now Elixir
+248:
+  ItemId: 275 # Courtyard, Mythril Shard is now High Drive Recovery
+91:
+  ItemId: 463 # Library, Torn Pages is now Item Slot Up
+# Halloween Town
+53:
+  ItemId: 463 # Graveyard, Mythril Shard is now Item Slot Up
+212:
+  ItemId: 3 # Graveyard, Serenity Gem is now Ether
+211:
+  ItemId: 7 # Dr. Finklestein's Lab, Halloween Town Map is now Megalixir
+209:
+  ItemId: 275 # Halloween Town Square, Mythril Stone is now High Drive Recovery
+210:
+  ItemId: 3 # Halloween Town Square, Energy Shard is now Ether
+54:
+  ItemId: 276 # Hinterlands, Lightning Shard is now Power Boost
+213:
+  ItemId: 277 # Hinterlands, Mythril Stone is now Magic Boost
+214:
+  ItemId: 278 # Hinterlands, AP Boost is now Defense Boost
+55:
+  ItemId: 275 # Candy Cane Lane, Mega Potion is now High Drive Recovery
+56:
+  ItemId: 3 # Candy Cane Lane, Mythril Gem is now Ether
+216:
+  ItemId: 1 # Candy Cane Lane, Lightning Stone is now Potion
+217:
+  ItemId: 275 # Candy Cane Lane, Mythril Stone is now High Drive Recovery
+57:
+  ItemId: 3 # Santa's House, Christmas Town Map is now Ether
+58:
+  ItemId: 473 # Santa's House, AP Boost is now Armor Slot Up
+# Hollow Bastion
+194:
+  ItemId: 275 # Borough, Drive Recovery is now High Drive Recovery
+195:
+  ItemId: 275 # Borough, AP Boost is now High Drive Recovery
+196:
+  ItemId: 275 # Borough, Hi-Potion is now High Drive Recovery
+305:
+  ItemId: 7 # Borough, Mythril Shard is now Megalixir
+506:
+  ItemId: 275 # Borough, Dark Shard is now High Drive Recovery
+310:
+  ItemId: 278 # Postern, Castle Perimeter Map is now Defense Boost
+189:
+  ItemId: 276 # Postern, Mythril Gem is now Power Boost
+190:
+  ItemId: 277 # Postern, AP Boost is now Magic Boost
+200:
+  ItemId: 275 # Corridors, Mythril Stone is now High Drive Recovery
+201:
+  ItemId: 276 # Corridors, Mythril Crystal is now Power Boost
+202:
+  ItemId: 277 # Corridors, Dark Crystal is now Magic Boost
+307:
+  ItemId: 278 # Corridors, AP Boost is now Defense Boost
+184:
+  ItemId: 275 # Ansem's Study, Skill Recipe is now High Drive Recovery
+183:
+  ItemId: 275 # Ansem's Study, Ukulele Charm is now High Drive Recovery
+309:
+  ItemId: 7 # Restoration Site, Moon Recipe is now Megalixir
+507:
+  ItemId: 275 # Restoration Site, AP Boost is now High Drive Recovery
+179:
+  ItemId: 470 # Crystal Fissure, Torn Pages is now Max HP Up
+489:
+  ItemId: 471 # Crystal Fissure, The Great Maw Map is now Max MP Up
+180:
+  ItemId: 473 # Crystal Fissure, Energy Crystal is now Armor Slot Up
+181:
+  ItemId: 474 # Crystal Fissure, AP Boost is now Accessory Slot Up
+491:
+  ItemId: 422 # Postern, Gull Wing is now MP Hastega
+311:
+  ItemId: 32 # Heartless Manufactory, Cosmic Chain is now Torn Page
+# Land of Dragons
+245:
+  ItemId: 398 # Bamboo Grove, Dark Shard is now Form Boost
+497:
+  ItemId: 397 # Bamboo Grove, Ether is now Drive Boost
+498:
+  ItemId: 396 # Bamboo Grove, Mythril Shard is now Damage Drive
+21:
+  ItemId: 3 # Checkpoint, Hi-Potion is now Ether
+121:
+  ItemId: 463 # Checkpoint, Mythril Shard is now Item Slot Up
+22:
+  ItemId: 275 # Mountain Trail, Lightning Shard is now High Drive Recovery
+23:
+  ItemId: 276 # Mountain Trail, Recovery Recipe is now Power Boost
+122:
+  ItemId: 1 # Mountain Trail, Ether is now Potion
+123:
+  ItemId: 3 # Mountain Trail, Mythril Shard is now Ether
+124:
+  ItemId: 277 # Village Cave, AP Boost is now Magic Boost
+125:
+  ItemId: 278 # Village Cave, Dark Shard is now Defense Boost
+24:
+  ItemId: 275 # Ridge, Frost Shard is now High Drive Recovery
+126:
+  ItemId: 7 # Ridge, AP Boost is now Megalixir
+25:
+  ItemId: 276 # Throne Room, Torn Pages is now Power Boost
+127:
+  ItemId: 99 # Throne Room, Palace Map is now Quick Run LV2
+26:
+  ItemId: 277 # Throne Room, AP Boost is now Magic Boost
+27:
+  ItemId: 565 # Throne Room, Queen Recipe is now Dodge Roll LV2
+128:
+  ItemId: 278 # Throne Room, AP Boost is now Defense Boost
+129:
+  ItemId: 103 # Throne Room, Ogre Shield is now Aerial Dodge LV2
+130:
+  ItemId: 95 # Throne Room, Mythril Crystal is now High Jump LV2
+131:
+  ItemId: 107 # Throne Room, Orichalcum is now Glide LV2
+# Olympus Coliseum
+242:
+  ItemId: 1 # Underworld Entrance, Power Boost is now Potion
+7:
+  ItemId: 97 # Passage, Mythril Shard is now High Jump MAX
+8:
+  ItemId: 101 # Passage, Mythril Stone is now Quick Run MAX
+144:
+  ItemId: 567 # Passage, Ether is now Dodge Roll MAX
+145:
+  ItemId: 105 # Passage, AP Boost is now Aerial Dodge MAX
+146:
+  ItemId: 109 # Passage, Hi-Potion is now Glide MAX
+2:
+  ItemId: 3 # Inner Chamber, Underworld Map is now Ether
+243:
+  ItemId: 4 # Inner Chamber, Mythril Shard is now Elixir
+3:
+  ItemId: 277 # Caverns Entrance, Lucid Shard is now Magic Boost
+11:
+  ItemId: 278 # Caverns Entrance, AP Boost is now Defense Boost
+504:
+  ItemId: 276 # Caverns Entrance, Mythril Shard is now Power Boost
+9:
+  ItemId: 463 # The Lost Road, Bright Shard is now Item Slot Up
+10:
+  ItemId: 401 # The Lost Road, Ether is now Experience Boost
+148:
+  ItemId: 3 # The Lost Road, Mythril Shard is now Ether
+149:
+  ItemId: 3 # The Lost Road, Mythril Stone is now Ether
+150:
+  ItemId: 275 # Atrium, Lucid Stone is now High Drive Recovery
+151:
+  ItemId: 306 # Atrium, AP Boost is now Petite Ribbon
+244:
+  ItemId: 276 # The Lock, Caverns Map is now Power Boost
+5:
+  ItemId: 277 # The Lock, Mythril Shard is now Magic Boost
+142:
+  ItemId: 278 # The Lock, AP Boost is now Defense Boost
+# 100 Acre Wood
+313:
+  ItemId: 21 # Pooh Bear's House, Hundred Acre Wood Map is now Fire
+97:
+  ItemId: 22 # Pooh Bear's House, AP Boost is now Blizzard
+98:
+  ItemId: 23 # Pooh Bear's House, Mythril Stone is now Thunder
+105:
+  ItemId: 276 # Piglet's House, Defense Boost is now Power Boost
+103:
+  ItemId: 277 # Piglet's House, AP Boost is now Magic Boost
+104:
+  ItemId: 278 # Piglet's House, Mythril Gem is now Defense Boost
+314:
+  ItemId: 276 # Rabbit's House, Draw Ring is now Power Boost
+100:
+  ItemId: 277 # Rabbit's House, Mythril Crystal is now Magic Boost
+101:
+  ItemId: 278 # Rabbit's House, AP Boost is now Defense Boost
+108:
+  ItemId: 276 # Kanga's House, Magic Boost is now Power Boost
+106:
+  ItemId: 277 # Kanga's House, AP Boost is now Magic Boost
+107:
+  ItemId: 278 # Kanga's House, Orichalcum is now Defense Boost
+110:
+  ItemId: 276 # The Spooky Cave, Mythril Gem is now Power Boost
+111:
+  ItemId: 277 # The Spooky Cave, AP Boost is now Magic Boost
+112:
+  ItemId: 278 # The Spooky Cave, Orichalcum is now Defense Boost
+113:
+  ItemId: 276 # The Spooky Cave, Guard Recipe is now Power Boost
+115:
+  ItemId: 277 # The Spooky Cave, Mythril Crystal is now Magic Boost
+116:
+  ItemId: 278 # The Spooky Cave, AP Boost is now Defense Boost
+312:
+  ItemId: 66 # Starry Hill, Cosmic Ring is now Full Bloom+
+94:
+  ItemId: 133 # Starry Hill, Style Recipe is now Shock Charm+
+# Port Royal
+70:
+  ItemId: 276 # Rampart, Naval Map is now Power Boost
+219:
+  ItemId: 277 # Rampart, Mythril Stone is now Magic Boost
+220:
+  ItemId: 278 # Rampart, Dark Shard is now Defense Boost
+71:
+  ItemId: 3 # Town, Dark Stone is now Ether
+72:
+  ItemId: 1 # Town, AP Boost is now Potion
+73:
+  ItemId: 463 # Town, Mythril Shard is now Item Slot Up
+221:
+  ItemId: 4 # Town, Mythril Gem is now Elixir
+74:
+  ItemId: 472 # Cave Mouth, Bright Shard is now Drive Gauge Up
+223:
+  ItemId: 408 # Cave Mouth, Mythril Shard is now Fire Boost
+369:
+  ItemId: 409 # Powder Store, AP Boost is now Blizzard Boost
+370:
+  ItemId: 410 # Powder Store, AP Boost is now Thunder Boost
+75:
+  ItemId: 397 # Moonlight Nook, Mythril Shard is now Drive Boost
+224:
+  ItemId: 398 # Moonlight Nook, Serenity Gem is now Form Boost
+371:
+  ItemId: 540 # Moonlight Nook, Power Stone is now Drive Converter
+252:
+  ItemId: 7 # The Interceptor's Hold, Feather Charm is now Megalixir
+76:
+  ItemId: 275 # Seadrift Keep, AP Boost is now High Drive Recovery
+225:
+  ItemId: 275 # Seadrift Keep, Orichalcum is now High Drive Recovery
+372:
+  ItemId: 275 # Seadrift Keep, Meteor Staff is now High Drive Recovery
+77:
+  ItemId: 162 # Seadrift Row, Serenity Gem is now Combo Plus
+78:
+  ItemId: 406 # Seadrift Row, King Recipe is now Jackpot
+373:
+  ItemId: 163 # Seadrift Row, Mythril Crystal is now Air Combo Plus
+# Space Paranoids
+316:
+  ItemId: 133 # Pit Cell, Pit Cell Area Map is now Shock Charm+
+64:
+  ItemId: 3 # Pit Cell, Mythril Crystal is now Ether
+65:
+  ItemId: 275 # Canyon, Dark Crystal is now High Drive Recovery
+171:
+  ItemId: 276 # Canyon, Mythril Stone is now Power Boost
+253:
+  ItemId: 277 # Canyon, Mythril Gem is now Magic Boost
+521:
+  ItemId: 278 # Canyon, Frost Crystal is now Defense Boost
+49:
+  ItemId: 7 # Hallway, Power Crystal is now Megalixir
+50:
+  ItemId: 390 # Hallway, AP Boost is now Combo Boost
+255:
+  ItemId: 391 # Communications Room, I/O Tower Map is now Air Combo Boost
+499:
+  ItemId: 275 # Communications Room, Gaia Belt is now High Drive Recovery
+177:
+  ItemId: 276 # Central Computer Core, AP Boost is now Power Boost
+178:
+  ItemId: 277 # Central Computer Core, Orichalcum+ is now Magic Boost
+51:
+  ItemId: 278 # Central Computer Core, Cosmic Arts is now Defense Boost
+488:
+  ItemId: 463 # Central Computer Core, Central Computer Core Map is now Item Slot Up
+# Timeless River
+79:
+  ItemId: 397 # Cornerstone Hill, Cornerstone Hill Map is now Drive Boost
+12:
+  ItemId: 398 # Cornerstone Hill, Frost Shard is now Form Boost
+81:
+  ItemId: 401 # Pier, Mythril Shard is now Experience Boost
+82:
+  ItemId: 396 # Pier, Hi-Potion is now Damage Drive
+83:
+  ItemId: 276 # Waterway, Mythril Stone is now Power Boost
+84:
+  ItemId: 277 # Waterway, AP Boost is now Magic Boost
+85:
+  ItemId: 278 # Waterway, Frost Stone is now Defense Boost
+# Twilight Town
+447:
+  ItemId: 472 # The Old Mansion, Potion is now Drive Gauge Up
+448:
+  ItemId: 472 # The Old Mansion, Mythril Shard is now Drive Gauge Up
+442:
+  ItemId: 275 # The Woods, Potion is now High Drive Recovery
+443:
+  ItemId: 3 # The Woods, Mythril Shard is now Ether
+444:
+  ItemId: 65 # The Woods, Hi-Potion is now Draw Ring
+420:
+  ItemId: 275 # Tram Common, Hi-Potion is now High Drive Recovery
+421:
+  ItemId: 158 # Tram Common, AP Boost is now Aerial Recovery
+422:
+  ItemId: 63 # Tram Common, Tent is now Lucky Ring
+423:
+  ItemId: 58 # Tram Common, Mythril Shard is now Shadow Archive+
+424:
+  ItemId: 3 # Tram Common, Potion is now Ether
+425:
+  ItemId: 539 # Tram Common, Mythril Shard is now Combo Master
+484:
+  ItemId: 396 # Tram Common, Potion is now Damage Drive
+431:
+  ItemId: 397 # Central Station, Tent is now Drive Boost
+432:
+  ItemId: 398 # Central Station, Hi-Potion is now Form Boost
+433:
+  ItemId: 396 # Central Station, Mythril Shard is now Damage Drive
+465:
+  ItemId: 398 # The Tower, Potion is now Form Boost
+466:
+  ItemId: 397 # The Tower, Hi-Potion is now Drive Boost
+522:
+  ItemId: 100 # The Tower, Ether is now Quick Run LV3
+467:
+  ItemId: 566 # Tower Entryway, Ether is now Dodge Roll LV3
+468:
+  ItemId: 108 # Tower Entryway, Mythril Shard is now Glide LV3
+469:
+  ItemId: 104 # Sorcerer's Loft, Tower Map is now Aerial Dodge LV3
+470:
+  ItemId: 96 # Tower Wardrobe, Mythril Stone is now High Jump LV3
+479:
+  ItemId: 133 # Underground Concourse, Mythril Gem is now Shock Charm+
+480:
+  ItemId: 291 # Underground Concourse, Orichalcum is now Thunder Trinket
+481:
+  ItemId: 292 # Underground Concourse, AP Boost is now Thundara Trinket
+482:
+  ItemId: 293 # Underground Concourse, Mythril Crystal is now Thundaga Trinket
+477:
+  ItemId: 275 # Tunnelway, Orichalcum is now High Drive Recovery
+478:
+  ItemId: 542 # Tunnelway, Mythril Crystal is now Damage Control
+438:
+  ItemId: 405 # Sunset Terrace, Orichalcum+ is now Draw
+439:
+  ItemId: 406 # Sunset Terrace, Mythril Shard is now Jackpot
+440:
+  ItemId: 7 # Sunset Terrace, Mythril Crystal is now Megalixir
+441:
+  ItemId: 3 # Sunset Terrace, AP Boost is now Ether
+452:
+  ItemId: 276 # Mansion Foyer, Mythril Crystal is now Power Boost
+453:
+  ItemId: 277 # Mansion Foyer, Mythril Stone is now Magic Boost
+454:
+  ItemId: 278 # Mansion Foyer, Serenity Crystal is now Defense Boost
+457:
+  ItemId: 397 # Mansion Dining Room, Mythril Crystal is now Drive Boost
+458:
+  ItemId: 398 # Mansion Dining Room, Mythril Stone is now Form Boost
+460:
+  ItemId: 393 # Mansion Library, Orichalcum is now Finishing Plus
+464:
+  ItemId: 1 # Mansion Basement Corridor, Ultimate Recipe is now Potion
+# The World That Never Was
+374:
+  ItemId: 26 # Fragment Crossing, Mythril Stone is now Valor Form
+375:
+  ItemId: 275 # Fragment Crossing, Mythril Crystal is now High Drive Recovery
+376:
+  ItemId: 27 # Fragment Crossing, AP Boost is now Wisdom Form
+377:
+  ItemId: 375 # Fragment Crossing, Orichalcum is now Ice Cream
+391:
+  ItemId: 66 # Memory's Skyscraper, Mythril Crystal is now Full Bloom+
+523:
+  ItemId: 133 # Memory's Skyscraper, AP Boost is now Shock Charm+
+524:
+  ItemId: 304 # Memory's Skyscraper, Mythril Stone is now Ribbon
+335:
+  ItemId: 474 # The Brink of Despair, Dark City Map is now Accessory Slot Up
+500:
+  ItemId: 393 # The Brink of Despair, Orichalum+ is now Finishing Plus
+378:
+  ItemId: 162 # Nothing's Call, Mythril Gem is now Combo Plus
+379:
+  ItemId: 163 # Nothing's Call, Orichalcum is now Air Combo Plus
+336:
+  ItemId: 412 # Twilight's View, Cosmic Belt is now MP Rage
+380:
+  ItemId: 390 # Naught's Skyway, Mythril Gem is now Combo Boost
+381:
+  ItemId: 391 # Naught's Skyway, Orichalcum is now Air Combo Boost
+382:
+  ItemId: 398 # Naught's Skyway, Mythril Crystal is now Form Boost
+385:
+  ItemId: 392 # Ruin and Creation's Passage, Mythril Stone is now Reaction Boost
+386:
+  ItemId: 414 # Ruin and Creation's Passage, AP Boost is now Defender
+387:
+  ItemId: 422 # Ruin and Creation's Passage, Mythril Crystal is now MP Hastega
+388:
+  ItemId: 542 # Ruin and Creation's Passage, Orichalcum is now Damage Control
+# Agrabah
+353:
+  ItemId: 492 # Accidental Help, Agrabah Map is now Wishing Lamp
+300:
+  ItemId: 374 # See You Again, Lamp Charm is now EMPTY
+303:
+  ItemId: 374 # Cosmic Razzle Dazzle, Wishing Lamp is now EMPTY
+545:
+  ItemId: 374 # Lexaeus (Absent Silhouette), Strength Beyond Strength is now EMPTY
+550:
+  ItemId: 374 # Lexaeus (Data), Lost Illusion is now EMPTY
+# Atlantica
+367:
+  ItemId: 496 # Come Join the Musical, Undersea Kingdom Map is now Mysterious Abyss
+287:
+  ItemId: 374 # Ursala's Defeat, Mysterious Abyss is now EMPTY
+279:
+  ItemId: 374 # Our Worlds Are All Connected (A), Blizzard is now EMPTY
+538:
+  ItemId: 374 # Our Worlds Are All Connected (B), Orichalcum+ is now EMPTY
+# Beast's Castle
+299:
+  ItemId: 490 # Things Are Just Beginning, Cure is now Rumbling Rose
+270:
+  ItemId: 374 # Don't Give Up, Rumbling Rose is now EMPTY
+325:
+  ItemId: 374 # Don't Give Up, Castle Walls Map is now EMPTY
+528:
+  ItemId: 32 # Xaldin's Demise, Secret Ansem's Report 4 is now Torn Page
+559:
+  ItemId: 374 # Xaldin (Data), Defense Boost is now EMPTY
+# Disney Castle
+332:
+  ItemId: 81 # Queen Minnie, Disney Castle Map is now Kingdom Key D
+548:
+  ItemId: 374 # Marluxia (Absent Silhouette), Eternal Blossom is now EMPTY
+553:
+  ItemId: 374 # Marluxia (Data), Lost Illusion is now EMPTY
+587:
+  ItemId: 374 # Lingering Will (A), Proof of Connection is now EMPTY
+591:
+  ItemId: 374 # Lingering Will (B), Manifest Illusion is now EMPTY
+# Halloween Town
+301:
+  ItemId: 493 # Oogie's Demise, Magnet is now Decisive Pumpkin
+297:
+  ItemId: 374 # The Case Isn't Closed, Present is now EMPTY
+298:
+  ItemId: 374 # Presents Full of Love, Decoy Presents is now EMPTY
+275:
+  ItemId: 32 # The Experiment, Decisive Pumpkin is now Torn Page
+544:
+  ItemId: 374 # Vexen (Absent Silhouette), Road to Discovery is now EMPTY
+549:
+  ItemId: 374 # Vexen (Data), Lost Illusion is now EMPTY
+# Hollow Bastion
+362:
+  ItemId: 494 # The Great Ninja Yuffie, Marketplace Map is now Sleeping Lion
+256:
+  ItemId: 43 # The HBRC (A), Membership Card is now Oblivion
+292:
+  ItemId: 42 # The HBRC (B), Blizzard is now Oathkeeper
+531:
+  ItemId: 374 # Organization XIII, Secret Ansem's Report 7 is now EMPTY
+258:
+  ItemId: 374 # Lost Memories, Baseball Charm is now EMPTY
+266:
+  ItemId: 374 # The Doodle On The Wall, Master Form is now EMPTY
+276:
+  ItemId: 374 # Loading Data, Sleeping Lion is now EMPTY
+361:
+  ItemId: 374 # Goofy's Awake!, Cure is now EMPTY
+525:
+  ItemId: 374 # Xemnas's Agenda, Secret Ansem's Report 1 is now EMPTY
+269:
+  ItemId: 74 # A Box of Memories (A), Ice Cream is now Identity Disk
+511:
+  ItemId: 374 # A Box of Memories (B), Picture is now EMPTY
+282:
+  ItemId: 374 # The Battle, Fenrir is now EMPTY
+589:
+  ItemId: 374 # Mushroom XIII (A), Proof of Peace is now EMPTY
+588:
+  ItemId: 374 # Mushroom XIII (B), Winner's Proof is now EMPTY
+560:
+  ItemId: 374 # Demyx (Data), AP Boost is now EMPTY
+# Land of Dragons
+350:
+  ItemId: 481 # Enlistment, Encampment Area Map is now Hidden Dragon
+417:
+  ItemId: 374 # Ping's Training, AP Boost is now EMPTY
+495:
+  ItemId: 374 # Mountain Climb, Village Area Map is now EMPTY
+257:
+  ItemId: 374 # The Hero Who Saved the Day, Hidden Dragon is now EMPTY
+555:
+  ItemId: 374 # Xigbar (Data), Defense Boost is now EMPTY
+# Olympus Coliseum
+338:
+  ItemId: 484 # The Reunion, Coliseum Map is now Hero's Crest
+293:
+  ItemId: 491 # Regained Power (A), Olympus Stone is now Guardian Soul
+529:
+  ItemId: 497 # Regained Power (B), Secret Ansem's Report 5 is now Fatal Crest
+260:
+  ItemId: 374 # The Aftermath, Hero's Crest is now EMPTY
+295:
+  ItemId: 374 # Foe vs. Foe, Auron's Statue is now EMPTY
+272:
+  ItemId: 374 # Good-bye, Auron, Guardian Soul is now EMPTY
+546:
+  ItemId: 374 # Zexion (Absent Silhouette), Book of Shadows is now EMPTY
+551:
+  ItemId: 374 # Zexion (Data), Lost Illusion is now EMPTY
+# Olympus Cups
+516:
+  ItemId: 374 # Goddess of Fate Cup (A), Fatal Crest is now EMPTY
+517:
+  ItemId: 374 # Goddess of Fate Cup (B), Orichalcum+ is now EMPTY
+# 100 Acre Wood
+485:
+  ItemId: 374 # We Were So Worried (B), Spooky Cave Map is now EMPTY
+285:
+  ItemId: 73 # I'll Always Be With You (A), Cure is now Way to the Dawn
+539:
+  ItemId: 374 # I'll Always Be With You (B), Orichalcum+ is now EMPTY
+# Port Royal
+329:
+  ItemId: 486 # Run!, Isla de Muerta Map is now Follow the Wind
+263:
+  ItemId: 374 # Parting Ways, Follow the Wind is now EMPTY
+296:
+  ItemId: 374 # Captain Elizabeth (A), Cursed Medallion is now EMPTY
+331:
+  ItemId: 374 # Captain Elizabeth (B), Ship Graveyard Map is now EMPTY
+530:
+  ItemId: 374 # Luxord Flees, Secret Ansem's Report 6 is now EMPTY
+557:
+  ItemId: 374 # Luxord (Data), AP Boost is now EMPTY
+# Pride Lands
+302:
+  ItemId: 374 # A New King, Fire is now EMPTY
+556:
+  ItemId: 374 # Saix (Data), Defense Boost is now EMPTY
+# Space Paranoids
+547:
+  ItemId: 374 # Larxene (Absent Silhouette), Cloaked Thunder is now EMPTY
+552:
+  ItemId: 374 # Larxene (Data), Lost Illusion is now EMPTY
+# Timeless River
+368:
+  ItemId: 485 # Sora's Deduction, Window of Time Map is now Monochrome
+261:
+  ItemId: 374 # Steamboat Willie, Monochrome is now EMPTY
+262:
+  ItemId: 374 # The Castle Is Secure, Wisdom Form is now EMPTY
+# Twilight Town
+290:
+  ItemId: 374 # His Majesty, the King (A), Munny Pouch (Mickey) is now EMPTY
+291:
+  ItemId: 374 # His Majesty, the King (B), Crystal Orb is now EMPTY
+526:
+  ItemId: 374 # His Majesty, the King (C), Secret Ansem's Report 2 is now EMPTY
+304:
+  ItemId: 374 # The Fairies' Gift (A), Star Seeker is now EMPTY
+286:
+  ItemId: 374 # The Fairies' Gift (B), Valor Form is now EMPTY
+294:
+  ItemId: 374 # Saix Makes an Appearance, Seifer's Trophy is now EMPTY
+265:
+  ItemId: 22 # The Trophy's Crystals (A), Oathkeeper is now Blizzard
+543:
+  ItemId: 374 # The Trophy's Crystals (B), Limit Form is now EMPTY
+534:
+  ItemId: 374 # Roxas's Twilight Town, Secret Ansem's Report 10 is now EMPTY
+317:
+  ItemId: 374 # His Last Words, Bond of Flame is now EMPTY
+561:
+  ItemId: 374 # Axel (Data), Magic Boost is now EMPTY
+# The World That Never Was
+532:
+  ItemId: 374 # Time to Sleep (B), Secret Ansem's Report 8 is now EMPTY
+527:
+  ItemId: 374 # On Our Way, Secret Ansem's Report 3 is now EMPTY
+278:
+  ItemId: 73 # It's You! (A), Oblivion is now Way to the Dawn
+496:
+  ItemId: 374 # It's You! (B), Castle That Never Was Map is now EMPTY
+533:
+  ItemId: 595 # As the Battle Ends, Secret Ansem's Report 9 is now Proof of Peace
+536:
+  ItemId: 594 # A Friend Within, Secret Ansem's Report 12 is now Proof of Nonexistence
+535:
+  ItemId: 374 # Back to His Old Self, Secret Ansem's Report 11 is now EMPTY
+537:
+  ItemId: 593 # The Door to Kingdom Hearts, Secret Ansem's Report 13 is now Proof of Connection
+554:
+  ItemId: 374 # Xemnas (Data), Power Boost is now EMPTY

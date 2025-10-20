@@ -1,0 +1,6 @@
+Program 0x7E
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x51 "HE06_MS203"
+Spawn "b_60"

@@ -1,0 +1,5 @@
+Program 0x0A
+AllocEnemy 2097152
+AllocPacket 524288
+Spawn "b_20"
+Spawn "b_35"

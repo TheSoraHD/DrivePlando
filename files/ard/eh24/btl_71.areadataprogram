@@ -1,0 +1,7 @@
+Program 0x47
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x4844
+Party W_FRIEND
+Mission 0x10E "EH24_MS110"
+Spawn "b_40"

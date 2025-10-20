@@ -1,0 +1,10 @@
+Program 0x64
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x484a
+Party DEFAULT
+Mission 0xC7 "EH10_MS102"
+BattleLevel 99
+Unk1d 1
+Spawn "b_80"
+MapVisibility 0x00000807 0x00000000

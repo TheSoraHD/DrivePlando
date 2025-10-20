@@ -1,0 +1,7 @@
+Program 0x49
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x8F "HB07_MS402"
+Spawn "b_40"
+Spawn "b_11"

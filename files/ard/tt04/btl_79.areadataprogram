@@ -1,0 +1,8 @@
+Program 0x4F
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0xB2 "TT04_MS301"
+Unk1d 3
+Spawn "b_43"

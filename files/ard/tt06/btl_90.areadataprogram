@@ -1,0 +1,8 @@
+Program 0x5A
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0xF4 "TT06_WORK_PERFORM"
+Unk1d 3
+Spawn "b_42"

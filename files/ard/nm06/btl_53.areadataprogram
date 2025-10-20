@@ -1,0 +1,6 @@
+Program 0x35
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x6F "NM06_MS102"
+Spawn "b_40"

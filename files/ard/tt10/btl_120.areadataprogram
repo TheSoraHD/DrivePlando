@@ -1,0 +1,8 @@
+Program 0x78
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0xD5 "TT10_WORK_TIMBER"
+Unk1d 3
+Spawn "b_42"

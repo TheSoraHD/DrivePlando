@@ -1,0 +1,12 @@
+Program 0x3E
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+Layout "file/%s/tr_cy.2ld"
+MapVisibility 0x00000005 0x00000000
+Mission 0x33 "TR02_MS102B"
+Spawn "b_9a"
+Spawn "b_9b"
+Spawn "b_97"
+Spawn "b_9c"
+Spawn "b_9f"

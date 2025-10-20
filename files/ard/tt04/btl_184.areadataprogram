@@ -1,0 +1,8 @@
+Program 0xB8
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+Mission 0x12A "TT04_MS02"
+Unk1d 1
+Spawn "b_51"
+Spawn "b_60"

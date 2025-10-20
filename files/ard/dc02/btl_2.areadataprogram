@@ -1,0 +1,6 @@
+Program 0x02
+AllocEnemy 2097152
+AllocPacket 524288
+Mission 0xA1 "DC02_MS100"
+Spawn "b_01"
+Spawn "b_11"

@@ -1,0 +1,7 @@
+Program 0x01
+AllocEnemy 2097152
+AllocPacket 524288
+MapScript 8
+Spawn "b_00"
+Spawn "b_10"
+Spawn "b_11"

@@ -1,0 +1,6 @@
+Program 0x63
+AllocEnemy 2097152
+AllocPacket 524288
+Mission 0x130 "HB09_SKATE_01"
+Unk1d 1
+Spawn "s_99"

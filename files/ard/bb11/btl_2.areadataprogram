@@ -1,0 +1,5 @@
+Program 0x02
+AllocEnemy 2097152
+AllocPacket 524288
+Spawn "b_01"
+RandomSpawn "b_80" "b_81" "b_82"

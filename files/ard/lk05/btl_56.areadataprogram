@@ -1,0 +1,6 @@
+Program 0x38
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x69 "LK05_MS101"
+Spawn "b_40"

@@ -1,0 +1,6 @@
+Program 0x41
+AllocPacket 524288
+AllocEnemy 2097152
+Party NO_FRIEND
+Mission 0x94 "HB16_MS404D"
+Spawn "b_43"

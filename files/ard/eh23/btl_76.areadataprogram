@@ -1,0 +1,7 @@
+Program 0x4C
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_ONLY
+MapVisibility 0x00000001 0x00000000
+Spawn "b_99"
+Spawn "b_40"

@@ -1,0 +1,6 @@
+Program 0x0A
+AllocEnemy 2097152
+AllocPacket 524288
+StatusFlag3
+CasualSpawn 80 "b_30"
+Spawn "b_20"

@@ -1,0 +1,8 @@
+Program 0x74
+AllocPacket 524288
+Progress 0x183a
+AllocEnemy 2097152
+Party DEFAULT
+Mission 0x4D "HE08_MS107"
+Spawn "b_41"
+Spawn "b_80"

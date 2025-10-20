@@ -1,0 +1,8 @@
+Program 0x96
+AllocPacket 524288
+AllocEnemy 2097152
+Party DEFAULT
+AllocEffect 0x100000 0x80000
+Mission 0x198 "HB38_FM_MAR"
+BattleLevel 99
+Spawn "b_80"

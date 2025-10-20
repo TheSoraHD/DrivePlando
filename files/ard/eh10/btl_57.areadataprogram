@@ -1,0 +1,10 @@
+Program 0x39
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x4843
+Party DEFAULT
+Mission 0xC7 "EH10_MS102"
+Unk1d 4
+Spawn "b_40"
+
+MapVisibility 0x00000807 0x00000000

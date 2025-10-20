@@ -1,0 +1,6 @@
+Program 0xAE
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+Mission 0x9D "HE00_MS104A"
+Spawn "b_4z"

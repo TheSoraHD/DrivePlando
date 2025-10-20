@@ -1,0 +1,5 @@
+Program 0x04
+AllocEnemy 2097152
+AllocPacket 524288
+RandomSpawn "b_86" "b_87"
+Spawn "z_70"

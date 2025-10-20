@@ -1,0 +1,7 @@
+Program 0x66
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+StatusFlag3
+Mission 0x58 "MU01_MS103C"
+Spawn "z_42"

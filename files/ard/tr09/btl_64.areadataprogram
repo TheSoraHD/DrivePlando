@@ -1,0 +1,7 @@
+Program 0x40
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+MapScript 5
+Mission 0x8A "TR09_MS205"
+Spawn "b_99"

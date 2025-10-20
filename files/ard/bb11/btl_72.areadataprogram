@@ -1,0 +1,7 @@
+Program 0x48
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+StatusFlag3
+Mission 0x15 "BB11_MS102"
+Spawn "b_40"

@@ -1,0 +1,6 @@
+Program 0x51
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+Mission 0x16 "BB05_MS104B"
+Spawn "b_99"

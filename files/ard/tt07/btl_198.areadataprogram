@@ -1,0 +1,10 @@
+Program 0xC6
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0x146 "TT07_POSTER_01"
+Unk1d 3
+Spawn "b_45"
+Spawn "b_49"
+Spawn "b_85"

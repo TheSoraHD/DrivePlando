@@ -1,0 +1,7 @@
+Program 0x38
+AllocPacket 524288
+Progress 0x4843
+AllocEnemy 2097152
+Party DEFAULT
+Mission 0xC9 "EH15_MS104"
+Spawn "b_40"

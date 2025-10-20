@@ -1,0 +1,8 @@
+Program 0x4C
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+MapScript 19
+Mission 0xAC "TT04_MS106"
+Spawn "b_40"

@@ -1,0 +1,6 @@
+Program 0x36
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x84 "TR03_MS103"
+Spawn "b_40"

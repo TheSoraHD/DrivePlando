@@ -1,0 +1,7 @@
+Program 0xA0
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8d1
+Party DEFAULT
+Mission 0xC4 "TT40_MS002"
+Spawn "b_40"

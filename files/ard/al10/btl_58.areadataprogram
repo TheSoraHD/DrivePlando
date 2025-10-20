@@ -1,0 +1,6 @@
+Program 0x3A
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x43 "AL10_MS102"
+Spawn "b_40"

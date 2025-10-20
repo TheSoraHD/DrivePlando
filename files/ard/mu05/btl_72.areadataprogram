@@ -1,0 +1,6 @@
+Program 0x48
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_ONLY
+Mission 0x5A "MU05_MS105"
+Spawn "b_40"

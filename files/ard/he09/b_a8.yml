@@ -1,0 +1,120 @@
+- Entities: []
+  EventActivators:
+  - Flags: 0
+    OffBgGroup: 0
+    OnBgGroup: 0
+    Option: 0
+    PositionX: -679.63330078125
+    PositionY: -99.99982452392578
+    PositionZ: 406.5036926269531
+    RotationX: 0
+    RotationY: 0.03141576796770096
+    RotationZ: 0
+    ScaleX: 60.07500076293945
+    ScaleY: 100
+    ScaleZ: 102.61650085449219
+    Shape: 2
+    Type: 0
+  Flag: 0
+  Id: 941
+  ReturnParameters:
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  - Argument04: 0
+    Argument08: 0
+    Argument0c: 0
+    EntryType: 0
+    Id: 0
+    Rate: 0
+    Type: 0
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 0
+    Unknown: 0
+    World: 30
+  Type: 2
+  Unk20: 0
+  Unk24: 0
+  WalkPath: []
+- Entities:
+  - Argument1: 0
+    Argument2: 100
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 1367
+    PositionX: 300
+    PositionY: 0
+    PositionZ: -200
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    Serial: 1463
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 3
+  - Argument1: 0
+    Argument2: 0
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 3
+    PositionX: -50
+    PositionY: 0
+    PositionZ: 50
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    Serial: 1464
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 3
+  - Argument1: 0
+    Argument2: 100
+    Command: 0
+    Level: 0
+    Medal: 0
+    ObjectId: 1367
+    PositionX: -150
+    PositionY: 0
+    PositionZ: 250
+    ReactionCommand: 0
+    RotationX: 0
+    RotationY: 3.1415927410125732
+    RotationZ: 0
+    Serial: 1665
+    SpawnArgument: 0
+    SpawnDelay: 0
+    SpawnRange: 0
+    SpawnType: 3
+  EventActivators: []
+  Flag: 0
+  Id: 942
+  ReturnParameters: []
+  Signals: []
+  Teleport:
+    Door: 0
+    Place: 0
+    Unknown: 0
+    World: 0
+  Type: 1
+  Unk20: 0
+  Unk24: 0
+  WalkPath: []

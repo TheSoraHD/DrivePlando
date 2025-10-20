@@ -1,0 +1,6 @@
+Program 0x01
+AllocEnemy 2097152
+AllocPacket 524288
+Mission 0x1AB "HB24_CONFINE"
+BattleLevel 35
+Spawn "b_81"

@@ -1,0 +1,5 @@
+Program 0x0B
+AllocEnemy 2097152
+AllocPacket 524288
+Unk07 1
+Spawn "b_21"

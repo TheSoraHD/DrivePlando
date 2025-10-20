@@ -1,0 +1,8 @@
+Program 0x3E
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+MapScript 4
+Mission 0x45 "AL05_MS203"
+Unk1d 4
+Spawn "b_60"

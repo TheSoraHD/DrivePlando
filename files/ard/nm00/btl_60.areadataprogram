@@ -1,0 +1,7 @@
+Program 0x3C
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x383a
+Party W_FRIEND
+Mission 0x73 "NM00_MS202"
+Spawn "b_99"

@@ -1,0 +1,6 @@
+Program 0x35
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x86 "TR02_MS210"
+Spawn "b_60"

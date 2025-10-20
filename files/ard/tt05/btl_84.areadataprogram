@@ -1,0 +1,9 @@
+Program 0x54
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0xB6 "TT05_MS401"
+Spawn "b_40"
+Spawn "b_10"
+Spawn "b_11"

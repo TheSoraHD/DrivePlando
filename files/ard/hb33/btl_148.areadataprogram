@@ -1,0 +1,7 @@
+Program 0x94
+AllocPacket 524288
+AllocEnemy 2097152
+Party DEFAULT
+Mission 0x199 "HB33_FM_LAR"
+BattleLevel 99
+Spawn "b_81"

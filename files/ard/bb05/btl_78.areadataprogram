@@ -1,0 +1,7 @@
+Program 0x4E
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+StatusFlag3
+Mission 0x47 "BB05_MS104A"
+Spawn "b_40"

@@ -1,0 +1,8 @@
+Program 0xC5
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8db
+Party NO_FRIEND
+Mission 0x148 "TT07_WORM_01"
+Unk1d 3
+Spawn "b_47"

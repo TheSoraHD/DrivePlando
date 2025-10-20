@@ -1,0 +1,7 @@
+Program 0x37
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+MapScript 11
+Mission 0x85 "TR04_MS104"
+Spawn "b_40"

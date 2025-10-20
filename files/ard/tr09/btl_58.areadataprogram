@@ -1,0 +1,7 @@
+Program 0x3A
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+MapScript 5
+Mission 0x89 "TR09_MS204"
+Spawn "b_60"

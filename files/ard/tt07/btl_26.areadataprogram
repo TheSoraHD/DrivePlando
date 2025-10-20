@@ -1,0 +1,5 @@
+Program 0x1A
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Spawn "b_80"

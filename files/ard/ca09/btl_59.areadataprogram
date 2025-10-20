@@ -1,0 +1,8 @@
+Program 0x3B
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x4060
+Unk06 0
+Party DEFAULT
+Mission 0x79 "CA09_MS104"
+Spawn "b_40"

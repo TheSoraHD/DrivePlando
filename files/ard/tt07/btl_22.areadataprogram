@@ -1,0 +1,6 @@
+Program 0x16
+AllocEnemy 2097152
+AllocPacket 524288
+Unk06 0
+Spawn "b_80"
+Spawn "b_81"

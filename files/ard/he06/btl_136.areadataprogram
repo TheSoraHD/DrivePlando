@@ -1,0 +1,6 @@
+Program 0x88
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x17 "HE06_MS101"
+Spawn "b_99"

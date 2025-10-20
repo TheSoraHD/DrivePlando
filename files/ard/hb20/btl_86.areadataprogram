@@ -1,0 +1,7 @@
+Program 0x56
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x11C "HB20_MS401"
+Spawn "b_40"
+Spawn "b_11"

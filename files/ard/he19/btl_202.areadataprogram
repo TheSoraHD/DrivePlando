@@ -1,0 +1,6 @@
+Program 0xCA
+AllocPacket 524288
+AllocEnemy 2097152
+Party W_FRIEND
+Mission 0x124 "HE19_MS205"
+Spawn "b_63"

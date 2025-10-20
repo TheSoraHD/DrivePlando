@@ -1,0 +1,6 @@
+Program 0x36
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x65 "WI04_MS102C"
+Spawn "b_40"

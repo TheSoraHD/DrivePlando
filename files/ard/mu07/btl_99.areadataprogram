@@ -1,0 +1,7 @@
+Program 0x63
+AllocEnemy 2097152
+AllocPacket 524288
+Capacity 75
+Party NO_FRIEND
+Mission 0x9C "TEST_MU07_MS999"
+Spawn "b_99"

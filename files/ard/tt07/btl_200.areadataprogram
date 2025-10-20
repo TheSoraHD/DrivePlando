@@ -1,0 +1,7 @@
+Program 0xC8
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+Mission 0x14E "TT07_WORM_02"
+Unk1d 1
+Spawn "b_47"

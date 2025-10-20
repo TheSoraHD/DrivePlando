@@ -1,0 +1,6 @@
+Program 0x37
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x66 "WI05_MS102D"
+Spawn "b_40"

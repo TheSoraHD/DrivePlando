@@ -1,0 +1,6 @@
+Program 0x4C
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+MapScript 5
+Spawn "b_98"

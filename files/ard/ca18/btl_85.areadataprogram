@@ -1,0 +1,8 @@
+Program 0x55
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x4061
+Unk06 0
+Party W_FRIEND
+Mission 0x12C "CA18_MS202"
+Spawn "b_60"

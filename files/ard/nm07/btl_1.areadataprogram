@@ -1,0 +1,6 @@
+Program 0x01
+AllocEnemy 2097152
+AllocPacket 524288
+Unk06 0
+Mission 0x19F "NM07_KINOKO_XIG"
+Spawn "b_80"

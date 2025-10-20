@@ -1,0 +1,6 @@
+Program 0x50
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x9B "AL13_TRAP_FREE"
+Spawn "b_40"

@@ -1,0 +1,9 @@
+Program 0x47
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x383a
+Party W_FRIEND
+MapVisibility 0x00000001 0x40000000
+BarrierFlag 0x0 0x40000000
+Mission 0x75 "NM07_MS204"
+Spawn "b_99"

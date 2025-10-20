@@ -1,0 +1,7 @@
+Program 0x12
+AllocEnemy 2097152
+AllocPacket 524288
+Mission 0x2E "AL14_MS_O"
+Unk1d 4
+Spawn "b_65"
+Spawn "b_94"

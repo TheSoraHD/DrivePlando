@@ -1,0 +1,5 @@
+Program 0x6B
+AllocEnemy 2097152
+AllocPacket 524288
+Spawn "x_00"
+Spawn "m_00"

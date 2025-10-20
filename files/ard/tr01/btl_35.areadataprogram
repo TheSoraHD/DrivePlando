@@ -1,0 +1,4 @@
+Program 0x23
+AllocEnemy 2097152
+AllocPacket 524288
+Spawn "z_20"

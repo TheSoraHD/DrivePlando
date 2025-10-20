@@ -1,0 +1,9 @@
+Program 0x4C
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x2018
+Capacity 65
+Party NO_FRIEND
+Mission 0x5E "MU07_MS201"
+Spawn "b_60"
+Spawn "b_61"

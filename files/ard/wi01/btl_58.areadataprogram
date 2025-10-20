@@ -1,0 +1,6 @@
+Program 0x3A
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x62 "WI01_MS101"
+Spawn "b_40"

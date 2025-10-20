@@ -1,0 +1,7 @@
+Program 0x72
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x90 "HB04_MS403"
+BattleLevel 99
+Spawn "b_80"

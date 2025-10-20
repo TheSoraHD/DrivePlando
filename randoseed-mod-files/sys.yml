@@ -1,0 +1,82 @@
+- id: 17198
+  en: '{:icon party} {:icon material} {:icon gumi-brush} {:icon gumi-blueprint} {:icon
+    gumi-brush} {:icon exclamation-mark} {:icon gumi-block}'
+  jp: '{:icon party} {:icon material} {:icon gumi-brush} {:icon gumi-blueprint} {:icon
+    gumi-brush} {:icon exclamation-mark} {:icon gumi-block}'
+- id: 20239
+  en: 'The Final Door
+
+    opens with
+
+    3 Proofs.'
+  jp: 'The Final Door
+
+    opens with
+
+    3 Proofs.'
+- id: 17201
+  en: '{:color #FF000080}Beginner (WARNING)'
+  jp: "{:color #FF000080}\u30D3\u30AE\u30CA\u30FC\u30E2\u30FC\u30C9 (\u6CE8\u610F\
+    !)"
+- id: 17202
+  en: '{:color #FF000080}Standard (WARNING)'
+  jp: "{:color #FF000080}\u30B9\u30BF\u30F3\u30C0\u30FC\u30C9\u30E2\u30FC\u30C9 (\u6CE8\
+    \u610F!)"
+- id: 17203
+  en: '{:color #FF000080}Proud (WARNING)'
+  jp: "{:color #FF000080}\u30D7\u30E9\u30A6\u30C9\u30E2\u30FC\u30C9 (\u6CE8\u610F\
+    !)"
+- id: 17204
+  en: 'An easier mode for beginners.
+
+    {:color #FF000080}Critical Bonuses are turned on. The seven
+
+    random starting items will be unobtainable.'
+  jp: "\u6575\u304C\u5F31\u304F \u30B5\u30AF\u30B5\u30AF\u3059\u3059\u3081\u308B\u304B\
+    \u3093\u305F\u3093\u30E2\u30FC\u30C9\u3067\u3059\n{:color #FF000080}\u30AF\u30EA\
+    \u30C6\u30A3\u30AB\u30EB\u7279\u5178\u304C\u6709\u52B9\u306B\u306A\u3063\u3066\
+    \u3044\u307E\u3059\u304C\u3001\u3053\u306E\u30E2\u30FC\u30C9\n\u3067\u306F\u30B2\
+    \u30FC\u30E0\u958B\u59CB\u6642\u306B7\u3064\u306E\u7279\u5178\u3092\u53D7\u3051\
+    \u53D6\u308C\u307E\u305B\u3093"
+- id: 17205
+  en: 'A balanced mode best for those challenging
+
+    this game for the first time.
+
+    {:color #FF000080}Critical Bonuses are turned on. The seven
+
+    random starting items will be unobtainable.'
+  jp: "\u521D\u30D7\u30EC\u30A4\u306B\u30D4\u30C3\u30BF\u30EA\u306E \u307B\u3069\u3088\
+    \u3044\u30D0\u30E9\u30F3\u30B9\u306E\u30E2\u30FC\u30C9\u3067\u3059\n{:color #FF000080}\u30AF\
+    \u30EA\u30C6\u30A3\u30AB\u30EB\u7279\u5178\u304C\u6709\u52B9\u306B\u306A\u3063\
+    \u3066\u3044\u307E\u3059\u304C\u3001\u3053\u306E\u30E2\u30FC\u30C9\n\u3067\u306F\
+    \u30B2\u30FC\u30E0\u958B\u59CB\u6642\u306B7\u3064\u306E\u7279\u5178\u3092\u53D7\
+    \u3051\u53D6\u308C\u307E\u305B\u3093"
+- id: 17206
+  en: 'A difficult mode with stronger enemies.
+
+    Best for those seeking a challenge.
+
+    {:color #FF000080}Critical Bonuses are turned on. The seven
+
+    random starting items will be unobtainable.'
+  jp: "\u6575\u304C\u5F37\u304F \u30B9\u30EA\u30EA\u30F3\u30B0\u306A\u30D0\u30C8\u30EB\
+    \u304C\u305F\u306E\u3057\u3081\u308B\u30E2\u30FC\u30C9\u3067\u3059\n{:color #FF000080}\u30AF\
+    \u30EA\u30C6\u30A3\u30AB\u30EB\u7279\u5178\u304C\u6709\u52B9\u306B\u306A\u3063\
+    \u3066\u3044\u307E\u3059\u304C\u3001\u3053\u306E\u30E2\u30FC\u30C9\n\u3067\u306F\
+    \u30B2\u30FC\u30E0\u958B\u59CB\u6642\u306B7\u3064\u306E\u7279\u5178\u3092\u53D7\
+    \u3051\u53D6\u308C\u307E\u305B\u3093"
+- id: 20020
+  en: 'A true test of skill for the adept. Begin
+
+    with certain abilities and other perks.
+
+    {:color #F0F00080}Critical Bonuses are turned on. The seven
+
+    starting items have been randomized.'
+  jp: "\u30A2\u30AF\u30B7\u30E7\u30F3\u306E\u30A6\u30C7\u304C\u305F\u3081\u3055\u308C\
+    \u308B \u4E0A\u7D1A\u8005\u5411\u3051\u306E\u30E2\u30FC\u30C9\u3067\u3059\n{:color\
+    \ #FF000080}\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7279\u5178\u304C\u6709\u52B9\
+    \u306B\u306A\u3063\u3066\u3044\u307E\u3059\u3002\u30B2\u30FC\u30E0\u958B\u59CB\
+    \u6642\n\u306B\u30E9\u30F3\u30C0\u30E0\u306A7\u3064\u306E\u7279\u5178\u3092\u53D7\
+    \u3051\u53D6\u308C\u307E\u3059"

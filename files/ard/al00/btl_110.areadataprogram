@@ -1,0 +1,7 @@
+Program 0x6E
+AllocEnemy 2097152
+AllocPacket 524288
+Mission 0x12D "AL00_SKATE_01"
+Unk1d 1
+Spawn "s_99"
+Spawn "s_90"

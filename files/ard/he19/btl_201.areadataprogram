@@ -1,0 +1,6 @@
+Program 0xC9
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x125 "HE19_MS204"
+Spawn "b_62"

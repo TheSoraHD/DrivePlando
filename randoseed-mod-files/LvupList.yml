@@ -1,0 +1,1189 @@
+Sora:
+  1:
+    Character: Sora
+    Level: 1
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 40
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  2:
+    Character: Sora
+    Level: 2
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 100
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  3:
+    Character: Sora
+    Level: 3
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 184
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  4:
+    Character: Sora
+    Level: 4
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 296
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  5:
+    Character: Sora
+    Level: 5
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 440
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  6:
+    Character: Sora
+    Level: 6
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 620
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  7:
+    Character: Sora
+    Level: 7
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 840
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  8:
+    Character: Sora
+    Level: 8
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1128
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  9:
+    Character: Sora
+    Level: 9
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1492
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  10:
+    Character: Sora
+    Level: 10
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1940
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  11:
+    Character: Sora
+    Level: 11
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2480
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  12:
+    Character: Sora
+    Level: 12
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 3120
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  13:
+    Character: Sora
+    Level: 13
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 3902
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  14:
+    Character: Sora
+    Level: 14
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 4838
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  15:
+    Character: Sora
+    Level: 15
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 5940
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  16:
+    Character: Sora
+    Level: 16
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 7260
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  17:
+    Character: Sora
+    Level: 17
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 8814
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  18:
+    Character: Sora
+    Level: 18
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 10618
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  19:
+    Character: Sora
+    Level: 19
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 12688
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  20:
+    Character: Sora
+    Level: 20
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 15088
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  21:
+    Character: Sora
+    Level: 21
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 17838
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  22:
+    Character: Sora
+    Level: 22
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 20949
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  23:
+    Character: Sora
+    Level: 23
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 24433
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  24:
+    Character: Sora
+    Level: 24
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 28302
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  25:
+    Character: Sora
+    Level: 25
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 32622
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  26:
+    Character: Sora
+    Level: 26
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 37407
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  27:
+    Character: Sora
+    Level: 27
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 42671
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  28:
+    Character: Sora
+    Level: 28
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 48485
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  29:
+    Character: Sora
+    Level: 29
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 54865
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  30:
+    Character: Sora
+    Level: 30
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 61886
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  31:
+    Character: Sora
+    Level: 31
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 69566
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  32:
+    Character: Sora
+    Level: 32
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 77984
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  33:
+    Character: Sora
+    Level: 33
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 87160
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  34:
+    Character: Sora
+    Level: 34
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 97177
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  35:
+    Character: Sora
+    Level: 35
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 108057
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  36:
+    Character: Sora
+    Level: 36
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 119887
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  37:
+    Character: Sora
+    Level: 37
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 132691
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  38:
+    Character: Sora
+    Level: 38
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 146560
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  39:
+    Character: Sora
+    Level: 39
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 161520
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  40:
+    Character: Sora
+    Level: 40
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 177666
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  41:
+    Character: Sora
+    Level: 41
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 195026
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  42:
+    Character: Sora
+    Level: 42
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 213699
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  43:
+    Character: Sora
+    Level: 43
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 233715
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  44:
+    Character: Sora
+    Level: 44
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 255177
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  45:
+    Character: Sora
+    Level: 45
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 278117
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  46:
+    Character: Sora
+    Level: 46
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 302642
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  47:
+    Character: Sora
+    Level: 47
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 328786
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  48:
+    Character: Sora
+    Level: 48
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 356660
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  49:
+    Character: Sora
+    Level: 49
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 386660
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  50:
+    Character: Sora
+    Level: 50
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 417978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  51:
+    Character: Sora
+    Level: 51
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 450378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  52:
+    Character: Sora
+    Level: 52
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 483578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  53:
+    Character: Sora
+    Level: 53
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 517578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  54:
+    Character: Sora
+    Level: 54
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 552378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  55:
+    Character: Sora
+    Level: 55
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 587978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  56:
+    Character: Sora
+    Level: 56
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 624378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  57:
+    Character: Sora
+    Level: 57
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 661578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  58:
+    Character: Sora
+    Level: 58
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 699578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  59:
+    Character: Sora
+    Level: 59
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 738378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  60:
+    Character: Sora
+    Level: 60
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 777978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  61:
+    Character: Sora
+    Level: 61
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 818378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  62:
+    Character: Sora
+    Level: 62
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 859578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  63:
+    Character: Sora
+    Level: 63
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 901578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  64:
+    Character: Sora
+    Level: 64
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 944378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  65:
+    Character: Sora
+    Level: 65
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 987987
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  66:
+    Character: Sora
+    Level: 66
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1032378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  67:
+    Character: Sora
+    Level: 67
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1077578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  68:
+    Character: Sora
+    Level: 68
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1123578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  69:
+    Character: Sora
+    Level: 69
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1170378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  70:
+    Character: Sora
+    Level: 70
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1217978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  71:
+    Character: Sora
+    Level: 71
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1266378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  72:
+    Character: Sora
+    Level: 72
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1315578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  73:
+    Character: Sora
+    Level: 73
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1365578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  74:
+    Character: Sora
+    Level: 74
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1416378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  75:
+    Character: Sora
+    Level: 75
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1467978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  76:
+    Character: Sora
+    Level: 76
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1520378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  77:
+    Character: Sora
+    Level: 77
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1573578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  78:
+    Character: Sora
+    Level: 78
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1627578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  79:
+    Character: Sora
+    Level: 79
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1682378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  80:
+    Character: Sora
+    Level: 80
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1737978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  81:
+    Character: Sora
+    Level: 81
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1794378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  82:
+    Character: Sora
+    Level: 82
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1851578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  83:
+    Character: Sora
+    Level: 83
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1909578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  84:
+    Character: Sora
+    Level: 84
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 1968378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  85:
+    Character: Sora
+    Level: 85
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2027978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  86:
+    Character: Sora
+    Level: 86
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2088378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  87:
+    Character: Sora
+    Level: 87
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2149578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  88:
+    Character: Sora
+    Level: 88
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2211578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  89:
+    Character: Sora
+    Level: 89
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2274378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  90:
+    Character: Sora
+    Level: 90
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2337978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  91:
+    Character: Sora
+    Level: 91
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2402378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  92:
+    Character: Sora
+    Level: 92
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2467578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  93:
+    Character: Sora
+    Level: 93
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2533578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  94:
+    Character: Sora
+    Level: 94
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2600378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  95:
+    Character: Sora
+    Level: 95
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2667978
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  96:
+    Character: Sora
+    Level: 96
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2736378
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  97:
+    Character: Sora
+    Level: 97
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2805578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  98:
+    Character: Sora
+    Level: 98
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 2875578
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0
+  99:
+    Character: Sora
+    Level: 99
+    Strength: 0
+    Magic: 0
+    Defense: 0
+    Ap: 0
+    Exp: 0
+    SwordAbility: 470 # Max HP Up
+    ShieldAbility: 470 # Max HP Up
+    StaffAbility: 470 # Max HP Up
+    Padding: 0

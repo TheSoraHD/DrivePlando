@@ -1,0 +1,8 @@
+Program 0x4F
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x2018
+Party W_FRIEND
+Mission 0x18 "MU08_MS204"
+Spawn "b_61"
+Spawn "b_70"

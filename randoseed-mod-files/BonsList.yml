@@ -1,0 +1,1625 @@
+#Escort Abu
+42:
+  Sora:
+    RewardId: 42
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 42
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Treasure Room Heartless
+46:
+  Sora:
+    RewardId: 46
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 46
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 46
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Volcanic Lord & Blizzard Lord
+37:
+  Sora:
+    RewardId: 37
+    CharacterId: 1
+    BonusItem1: 23 # Thunder
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 37
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 37
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Genie Jafar
+15:
+  Sora:
+    RewardId: 15
+    CharacterId: 1
+    BonusItem1: 422 # MP Hastega
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Lexaeus (Absent Silhouette)
+65:
+  Sora:
+    RewardId: 65
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 65
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 65
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Thresholder
+2:
+  Sora:
+    RewardId: 2
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 2
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Beast
+12:
+  Sora:
+    RewardId: 12
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 12
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 12
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Dark Thorn
+3:
+  Sora:
+    RewardId: 3
+    CharacterId: 1
+    BonusItem1: 21 # Fire
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 3
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 3
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Xaldin
+4:
+  Sora:
+    RewardId: 4
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 4
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Transport to Remembrance Nobodies III
+72:
+  Sora:
+    RewardId: 72
+    CharacterId: 1
+    BonusItem1: 500 # Ultima Weapon
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 72
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 72
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Escort Queen Minnie
+38:
+  Sora:
+    RewardId: 38
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Marluxia (Absent Silhouette)
+67:
+  Sora:
+    RewardId: 67
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 67
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 67
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Lingering Will
+70:
+  Sora:
+    RewardId: 70
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 70
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 70
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Prison Keeper
+18:
+  Sora:
+    RewardId: 18
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 18
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Jack Skellington:
+    RewardId: 18
+    CharacterId: 10
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Oogie Boogie
+19:
+  Sora:
+    RewardId: 19
+    CharacterId: 1
+    BonusItem1: 22 # Blizzard
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 19
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 19
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Lock/Shock/Barrel
+40:
+  Sora:
+    RewardId: 40
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 40
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 40
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Experiment
+20:
+  Sora:
+    RewardId: 20
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 20
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Vexen (Absent Silhouette)
+64:
+  Sora:
+    RewardId: 64
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 64
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 64
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Bailey Nobodies
+47:
+  Sora:
+    RewardId: 47
+    CharacterId: 1
+    BonusItem1: 23 # Thunder
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Demyx (Hollow Bastion)
+28:
+  Sora:
+    RewardId: 28
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 28
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#1,000 Heartless
+60:
+  Sora:
+    RewardId: 60
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Sephiroth
+35:
+  Sora:
+    RewardId: 35
+    CharacterId: 1
+    BonusItem1: 32 # Torn Page
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Village Cave Heartless
+43:
+  Sora:
+    RewardId: 43
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Ping/Mulan:
+    RewardId: 43
+    CharacterId: 6
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 15
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Shan-Yu
+9:
+  Sora:
+    RewardId: 9
+    CharacterId: 1
+    BonusItem1: 24 # Cure
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 9
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 9
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Storm Rider
+10:
+  Sora:
+    RewardId: 10
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 10
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 10
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Cerberus
+5:
+  Sora:
+    RewardId: 5
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Phil's Training(Story)
+57:
+  Sora:
+    RewardId: 57
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Demyx (Olympus Coliseum)
+58:
+  Sora:
+    RewardId: 58
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 58
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Pete (Olympus Coliseum)
+6:
+  Sora:
+    RewardId: 6
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 6
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 6
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Hydra
+7:
+  Sora:
+    RewardId: 7
+    CharacterId: 1
+    BonusItem1: 88 # Reflect
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 7
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Hades
+8:
+  Sora:
+    RewardId: 8
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 8
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Zexion (Absent Silhouette)
+66:
+  Sora:
+    RewardId: 66
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 66
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 66
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Interceptor Pirates
+62:
+  Sora:
+    RewardId: 62
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 62
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Interceptor Barrels
+39:
+  Sora:
+    RewardId: 39
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 39
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 39
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Captain Barbossa
+21:
+  Sora:
+    RewardId: 21
+    CharacterId: 1
+    BonusItem1: 21 # Fire
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 21
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 21
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Grim Reaper I
+59:
+  Sora:
+    RewardId: 59
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 59
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 59
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Grim Reaper II
+22:
+  Sora:
+    RewardId: 22
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 22
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Dataspace Computers
+45:
+  Sora:
+    RewardId: 45
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 45
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Hostile Program
+31:
+  Sora:
+    RewardId: 31
+    CharacterId: 1
+    BonusItem1: 74 # Identity Disk
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 31
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 31
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Solar Sailor Heartless
+61:
+  Sora:
+    RewardId: 61
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 61
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#MCP
+32:
+  Sora:
+    RewardId: 32
+    CharacterId: 1
+    BonusItem1: 462 # Unknown Disk
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 32
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 32
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Larxene (Absent Silhouette)
+68:
+  Sora:
+    RewardId: 68
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 68
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 68
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Pete (Steamboat Fight)
+16:
+  Sora:
+    RewardId: 16
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 16
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Pete (Timeless River)
+17:
+  Sora:
+    RewardId: 17
+    CharacterId: 1
+    BonusItem1: 88 # Reflect
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 17
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 17
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#The Old Mansion Nobodies
+56:
+  Sora:
+    RewardId: 56
+    CharacterId: 1
+    BonusItem1: 88 # Reflect
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 56
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Betwixt & Between Nobodies
+63:
+  Sora:
+    RewardId: 63
+    CharacterId: 1
+    BonusItem1: 32 # Torn Page
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Roxas
+69:
+  Sora:
+    RewardId: 69
+    CharacterId: 1
+    BonusItem1: 24 # Cure
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Xigbar
+23:
+  Sora:
+    RewardId: 23
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 23
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Luxord
+24:
+  Sora:
+    RewardId: 24
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Saix
+25:
+  Sora:
+    RewardId: 25
+    CharacterId: 1
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 5
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Donald:
+    RewardId: 25
+    CharacterId: 2
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Goofy:
+    RewardId: 25
+    CharacterId: 3
+    BonusItem1: 0 # EMPTY
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Xemnas
+26:
+  Sora:
+    RewardId: 26
+    CharacterId: 1
+    BonusItem1: 473 # Armor Slot Up
+    BonusItem2: 474 # Accessory Slot Up
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Final Xemnas
+71:
+  Sora:
+    RewardId: 71
+    CharacterId: 1
+    BonusItem1: 538 # "The Struggle" Trophy
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+  Riku:
+    RewardId: 71
+    CharacterId: 13
+    BonusItem1: 544 # Winner's Proof
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    

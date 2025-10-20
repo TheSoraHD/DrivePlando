@@ -1,0 +1,6 @@
+Program 0x38
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Mission 0x87 "TR04_MS202"
+Spawn "b_60"

@@ -1,0 +1,7 @@
+Program 0xC2
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+Mission 0x150 "TT06_PERFORM_02"
+Unk1d 1
+Spawn "b_42"

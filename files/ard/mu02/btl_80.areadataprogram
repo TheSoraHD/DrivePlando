@@ -1,0 +1,7 @@
+Program 0x50
+AllocEnemy 2097152
+AllocPacket 524288
+Capacity 50
+Party W_FRIEND_FIX
+Mission 0x57 "MU02_MS103B"
+Spawn "b_45"

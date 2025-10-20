@@ -1,0 +1,6 @@
+Program 0x47
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+Mission 0x59 "MU03_MS104"
+Spawn "b_40"

@@ -1,0 +1,7 @@
+Program 0x89
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x8ce
+Party NO_FRIEND
+Mission 0xBD "TT20_MS603"
+Spawn "b_40"

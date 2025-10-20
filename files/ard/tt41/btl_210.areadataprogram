@@ -1,0 +1,6 @@
+Program 0xD2
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Unk1d 1
+Spawn "b_80"

@@ -1,0 +1,6 @@
+Program 0x1A
+AllocEnemy 2097152
+AllocPacket 524288
+BattleLevel 55
+Spawn "b_82"
+Spawn "b_81"

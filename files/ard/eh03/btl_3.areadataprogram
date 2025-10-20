@@ -1,0 +1,6 @@
+Program 0x03
+AllocEnemy 2097152
+AllocPacket 524288
+Unk06 0
+Mission 0x19E "EH03_KINOKO_XEM"
+Spawn "b_80"

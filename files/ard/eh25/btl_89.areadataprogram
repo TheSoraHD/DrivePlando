@@ -1,0 +1,8 @@
+Program 0x59
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+MapVisibility 0x4003fc03 0x40000000
+BarrierFlag 0x0 0x40000000
+Spawn "b_99"
+Spawn "m_50"

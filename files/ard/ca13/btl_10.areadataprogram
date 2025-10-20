@@ -1,0 +1,6 @@
+Program 0x0A
+AllocEnemy 2097152
+AllocPacket 524288
+Unk06 0
+Mission 0x1A7 "CA13_KINOKO_LUX"
+Spawn "b_80"

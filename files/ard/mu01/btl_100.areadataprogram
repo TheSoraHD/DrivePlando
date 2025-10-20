@@ -1,0 +1,7 @@
+Program 0x64
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND_FIX
+Mission 0x58 "MU01_MS103C"
+Spawn "b_45"
+RandomSpawn "b_80" "b_81" "b_82" "b_83"

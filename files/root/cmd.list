@@ -1,0 +1,24 @@
+- Argument: 640
+  CmdAction: null
+  CmdCamera: null
+  CmdIcon: null
+  CmdReceiver: Player
+  Cost: 0
+  Dir: 0.0
+  DirRange: -1.0
+  DisableForm: 0
+  DistRange: 0
+  Execute: 640
+  Flags: Cursor, Land, NoCombo, DisableSkateboard, DisableSora
+  Group: 0
+  Id: 640
+  Mark: 4
+  MessageId: 51841
+  Priority: 100
+  Range: -1.0
+  ReactionCount: 0
+  Require: 0
+  Reserve: 0
+  Score: 0
+  SubMenu: -1
+  Time: 0

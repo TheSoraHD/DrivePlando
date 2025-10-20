@@ -1,0 +1,6 @@
+Program 0x0A
+AllocEnemy 2097152
+AllocPacket 524288
+Unk06 0
+Mission 0x1A8 "WI02_KINOKO_MAR"
+Spawn "b_80"

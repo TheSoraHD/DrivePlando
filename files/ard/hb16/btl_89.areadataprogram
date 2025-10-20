@@ -1,0 +1,14 @@
+Program 0x59
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+MsgWall 0xb6b6
+MapVisibility 0x40900003 0x00000000
+BarrierFlag 0x80000000 0x0
+AreaSettings 7 -1
+	SetProgressFlag 0x1049
+	SetJump Type 2 World HB Area 0 Entrance 0 LocalSet 90 FadeType 1
+	SetPartyMenu 0
+
+Mission 0x93 "HB16_MS404C"
+Spawn "b_47"

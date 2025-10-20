@@ -1,0 +1,8 @@
+Program 0x49
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0x19A "DC07_FM_NAZO"
+BattleLevel 99
+Unk1d 1
+Spawn "b_80"

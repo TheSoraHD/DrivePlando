@@ -1,0 +1,5 @@
+Program 0x4D
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Spawn "b_98"

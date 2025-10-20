@@ -1,0 +1,11 @@
+Program 0x3F
+AllocEnemy 2097152
+AllocPacket 524288
+Layout "file/%s/tr_cy.2ld"
+Mission 0x34 "TR02_MS102_FREE"
+Unk1d 1
+Spawn "b_9a"
+Spawn "b_9b"
+Spawn "b_97"
+Spawn "b_9c"
+Spawn "b_9f"

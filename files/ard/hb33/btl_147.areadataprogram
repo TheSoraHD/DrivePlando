@@ -1,0 +1,8 @@
+Program 0x93
+AllocPacket 524288
+AllocEnemy 2097152
+Party DEFAULT
+AllocEffect 0x100000 0x80000
+Mission 0x196 "HB33_FM_LEX"
+BattleLevel 99
+Spawn "b_80"

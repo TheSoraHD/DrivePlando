@@ -1,0 +1,8 @@
+Program 0x37
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x405e
+Unk06 0
+Party DEFAULT
+Mission 0x78 "CA02_MS103"
+Spawn "b_40"

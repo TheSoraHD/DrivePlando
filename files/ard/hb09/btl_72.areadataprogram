@@ -1,0 +1,8 @@
+Program 0x48
+AllocEnemy 2097152
+AllocPacket 524288
+Party DEFAULT
+Mission 0xDA "HB09_MS501"
+Unk1d 3
+Spawn "b_42"
+Spawn "b_12"

@@ -1,0 +1,5 @@
+Program 0x15
+Party W_FRIEND
+StatusFlag3
+RandomSpawn "b_80" "b_82"
+RandomSpawn "b_83" "b_84" "b_85"

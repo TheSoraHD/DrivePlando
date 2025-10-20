@@ -1,0 +1,8 @@
+Program 0x33
+AllocEnemy 2097152
+AllocPacket 524288
+Party NO_FRIEND
+StatusFlag3
+Mission 0x61 "DC00_MS101"
+Spawn "b_41"
+Spawn "b_97"

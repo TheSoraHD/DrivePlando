@@ -1,0 +1,5 @@
+Program 0x15
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+Spawn "b_71"

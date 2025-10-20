@@ -1,0 +1,10 @@
+Program 0x8D
+AllocEnemy 2097152
+AllocPacket 524288
+Progress 0x183a
+Party NO_FRIEND
+Mission 0x9E "HE00_MS104B"
+Unk1d 1
+Spawn "b_4a"
+Spawn "b_4d"
+Spawn "b_4e"

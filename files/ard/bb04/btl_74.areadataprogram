@@ -1,0 +1,7 @@
+Program 0x4A
+AllocEnemy 2097152
+AllocPacket 524288
+Party W_FRIEND
+StatusFlag3
+Mission 0x1 "BB04_MS201"
+Spawn "b_60"
