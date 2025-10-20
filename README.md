@@ -1,83 +1,163 @@
-[kh2_fifth/music050.win32.scd] Dive into the Heart -Destati-					= .hack//IMOQ - aura1 (Aura's Theme)						
-[kh2_fifth/music052.win32.scd] The Afternoon Streets						= Gravity Rush - Old Town (Auldnoir)						
+[kh2_fifth/music050.win32.scd] Dive into the Heart -Destati-					= .hack//IMOQ - aura1 (Aura's Theme)
+
+[kh2_fifth/music052.win32.scd] The Afternoon Streets						= Gravity Rush - Old Town (Auldnoir)
+
 [kh2_fifth/music053.win32.scd] Working Together							= Gravity Rush - Resistance and Extermination (Fighting Back)			
-[kh2_fifth/music054.win32.scd] Sacred Moon							= Kingdom Hearts 3D OST: Sacred Distance					
+
+[kh2_fifth/music054.win32.scd] Sacred Moon							= Kingdom Hearts 3D OST: Sacred Distance
+
 [kh2_fifth/music055.win32.scd] Deep Drive							= Kingdom Hearts 3D OST: Deep Drop						
+
 [kh2_fifth/music059.win32.scd] A Fight to the Death						= 【PSO2】EP6 ラスボス レイドボス「原初の闇」ソダム戦「Dark To Light」歌詞付き【戦闘BGM	
+
 [kh2_fifth/music061.win32.scd] Darkness of the Unknown (Part 2)					= PSO2 - All Arks								
+
 [kh2_fifth/music062.win32.scd] Darkness of the Unknown (Part 3)					= PSO2 - Primordial Darkness - 2nd half						
+
 [kh2_fifth/music063.win32.scd] The 13th Reflection						= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music064.win32.scd] What A Surprise?!						= 
+
 [kh2_fifth/music065.win32.scd] Happy Holidays!							= 
+
 [kh2_fifth/music066.win32.scd] Oogie Boogie (Unique Battle Theme)				= Lost Odyssey - A Formidable Enemy Appears					
+
 [kh2_fifth/music066.win32.scd] The Other Promise						= Expedition 33 - Une vie à t'aimer
+
 [kh2_fifth/music067.win32.scd] Rage Awakened							= FFX - A Contest of Aeons							
+
 [kh2_fifth/music068.win32.scd] Cavern of Remembrance						= Zelda Ultimate Trial - Shiba's Stronghold					
+
 [kh2_fifth/music069.win32.scd] Deep Anxiety							= Zelda Ultimate Trial - Hylia's Justiciar (Phase 1)				
+
 [kh2_fifth/music620.win32.scd] Transport to Remembrance Nobody Fights (Unique battle theme)	= Zelda Ultimate Trial - Hylia's Justiciar (Phase 1) 				
+
 [kh2_fifth/music081.win32.scd] Beneath the Ground (Version 1)					= FF14 - The Twinning Theme ( A Long Fall )					
+
 [kh2_fifth/music085.win32.scd] Byte Striking							= Deus Ex - Enemy Within (Combat)						
+
 [kh2_fifth/music086.win32.scd] Spooks of Halloween Town (Version 1)				= KH 0.2 - The World Within							
+
 [kh2_fifth/music087.win32.scd] Disappeared							= KH3D - Anti Black Coat Nightmare						
+
 [kh2_fifth/music100.win32.scd] The Underworld							= Radiant Historia - Shadows Dance in the Darkness				
+
 [kh2_fifth/music101.win32.scd] Waltz of the Damned						= FFXIII - A Brief Respire							
+
 [kh2_fifth/music102.win32.scd] What Lies Beneath						= Radiant Historia - The Edge of Green						
+
 [kh2_fifth/music103.win32.scd] Olympus Coliseum 						= 
+
 [kh2_fifth/music104.win32.scd] Dance of the Daring						= FFXIII - Desperate Struggle							
+
 [kh2_fifth/music625.win32.scd] Thresholder (Unique Battle Theme)				= Reynatis - Coast of Judgment							
+
 [kh2_fifth/music110.win32.scd] The Encounter							= Lost Odyssey - A Formidable Enemy Appears					
+
 [kh2_fifth/music111.win32.scd] Sinister Shadows							= Panzer Dragoon II Zwei OST - The Empire's Giant Carrier  			
+
 [kh2_fifth/music112.win32.scd] Fields of Honor							= Panzer Dragoon Saga - Mutation						
+
 [kh2_fifth/music114.win32.scd] Tension Rising							= DDS2 - Heroic Battle								
+
 [kh2_fifth/music115.win32.scd] The Corrupted							= Lost Odyssey - Battle Conditions						
+
 [kh2_fifth/music621.win32.scd] The Experiment/Hostile Program (Unique Battle Theme)		= Lost Odyssey - Battle Conditions						
+
 [kh2_fifth/music116.win32.scd] The Home of Dragons						= Panzer Dragoon Saga - A Premonition of Battle					
+
 [kh2_fifth/music117.win32.scd] Rowdy Rumble							= Super Mario RPG Remake - Battling Culex					
+
 [kh2_fifth/music121.win32.scd] Desire for All That Is Lost					= Mushihimesama Futari - Cry! Scream!!
+
 [kh2_fifth/music127.win32.scd] A Day in Agrabah							= Asura's Wrath - Wind ~Yasha's Theme~						
+
 [kh2_fifth/music128.win32.scd] Arabian Dream							= Asura's Wrath - Fang ~ASURA vs. YASHA~					
+
 [kh2_fifth/music623.win32.scd] Genie Jafar (Unique Battle Theme)				= Lost Odyssey - A Formidable Enemy Appears					
+
 [kh2_fifth/music131.win32.scd] Dance to the Death						= Reynatis - Coast of Judgment							
+
 [kh2_fifth/music133.win32.scd] Magical Mystery							= Dragon Quest VIII - Mysterious Tower
+
 [kh2_fifth/music134.win32.scd] Working Together (The Mysterious Tower ver.)			= Gravity Rush - Resistance and Extermination					
+
 [kh2_fifth/music135.win32.scd] Space Paranoids							= KHUX - Welcome to Niceland							
+
 [kh2_fifth/music136.win32.scd] Byte Bashing							= KHUX - I'm Gonna Wreck It!							
+
 [kh2_fifth/music143.win32.scd] Mickey Mouse Club March						= The Last Story - Castle Ruri
+
 [kh2_fifth/music144.win32.scd] This is Halloween						= KHBBSFM - Night of Tragedy							
+
 [kh2_fifth/music145.win32.scd] Vim and Vigor							= FFX - Otherworld								
+
 [kh2_fifth/music151.win32.scd] The 13th Struggle						= Persona Q - Battle in the Clock Tower						
+
 [kh2_fifth/music152.win32.scd] Reviving Hollow Bastion						= Reynatis - Zoo 								
+
 [kh2_fifth/music153.win32.scd] Scherzo Di Notte							= FFXV - Veiled in Black - Arrangement						
+
 [kh2_fifth/music154.win32.scd] Nights of the Cursed						= SoP - Pirates of Pravoka
+
 [kh2_fifth/music155.win32.scd] He's a Pirate							= SoP - Battle Captain Bikke
+
 [kh2_fifth/music164.win32.scd] Road to a Hero							= FFVII CRISIS CORE Theme - New Assignment					
+
 [kh2_fifth/music611.win32.scd] Demyx, Xaldin, Saix						= The Last Story Music - The One Ruling Everything (Last Battle)		
+
 [kh2_fifth/music602.win32.scd] Xigbar								= FFX - Fight with Seymour							
+
 [kh2_fifth/music610.win32.scd] Luxord								= Persona Q - Battle in the Clock Tower						
+
 [kh2_fifth/music186.win32.scd] Adventures in the Savannah					= .Hack//IMOQ - Fire Element Field
+
 [kh2_fifth/music187.win32.scd] Savannah Pride							= .Hack//IMOQ - Fire Element Field Battle
+
 [kh2_fifth/music188.win32.scd] One-Winged Angel							= FFXV - APOCALYPSIS NOCTIS
+
 [kh2_fifth/music189.win32.scd] Monochrome Dreams						= Pokémon Black & White - Kanoko Town
+
 [kh2_fifth/music190.win32.scd] Old Friends, Old Rivals						= 
+
 [kh2_fifth/music517.win32.scd] Rowdy Rumble (Timeless River ver.)				= Super Mario RPG - Battling Culex						
+
 [kh2_fifth/music521.win32.scd] Desire for All That Is Lost (Timeless River ver.)		= Mushihimesama - Is This How You Are?
+
 [kh2_fifth/music530.win32.scd] He's a Pirate							= SoP - Battle Captain Bikke
+
 [kh2_fifth/music600.win32.scd] 1000 Heartless							= Panzer Dragoon II Zwei OST - The Empire's Giant Carrier			
+
 [kh2_fifth/music601.win32.scd] Riku Summit							= ReCoM - The Force in You							
+
 [kh2_fifth/music704.win32.scd] Data Xemnas							= KH3D - Anti Black Coat Nightmare						
+
 [kh2_fifth/music613.win32.scd] Data Final Xemnas						= PSO2 - Primordial Darkness - 2nd half						
+
 [kh2_fifth/music703.win32.scd] Data Xigbar							= FFX - Fight with Seymour 							
+
 [kh2_fifth/music603.win32.scd] Data Xaldin							= The Last Story Music - The One Ruling Everything (Last Battle) 		
+
 [kh2_fifth/music604.win32.scd] Data Vexen							= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music700.win32.scd] Data Lexaeus							= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music606.win32.scd] Data Zexion							= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music607.win32.scd] Data Saix 							= The Last Story Music - The One Ruling Everything (Last Battle)		
+
 [kh2_fifth/music609.win32.scd] Data Demyx							= The Last Story Music - The One Ruling Everything (Last Battle)		
+
 [kh2_fifth/music701.win32.scd] Data Luxord							= Persona Q - Battle in the Clock Tower						
+
 [kh2_fifth/music605.win32.scd] Data Marluxia/All Absent Silhouettes				= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music700.win32.scd] Data Larxene							= Reynatis - Suppression of Magic						
+
 [kh2_fifth/music705.win32.scd] Data Roxas							= Expedition 33 - Une vie à t'aimer
+
 [kh2_fifth/music614.win32.scd] FF Gauntlet							= FFX - Otherworld																
 
 [kh2_first/Title.win32.scd] Dearly Beloved (Title)						= Final Fantasy X-2: Eternity ~Memory of Lightwaves~ (Piano)
+
 [kh2_sixth/End_Piano.win32.scd] Dearly Beloved Reprise						= Final Fantasy X-2: 1000 Words Piano Version ~Feelings That Crossed Time	
