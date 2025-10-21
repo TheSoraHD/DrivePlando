@@ -40,7 +40,7 @@ Stats:
   FireResistance: 100
   IceResistance: 100
   LightningResistance: 100
-  DarkResistance: -50
+  DarkResistance: 100
   Unknown08: 100 # Physical
   Unknown0d: 100 # Light
   GeneralResistance: 100 # Universal
@@ -67,7 +67,7 @@ Stats:
   Attack: 0
   Magic: 10
   Defense: 0
-  FireResistance: -50
+  FireResistance: 100
   IceResistance: 100
   LightningResistance: 100
   DarkResistance: 100
@@ -144,7 +144,7 @@ Stats:
   Defense: 0
   FireResistance: 100
   IceResistance: 100
-  LightningResistance: -50
+  LightningResistance: 100
   DarkResistance: 100
   Unknown08: 100 # Physical
   Unknown0d: 100 # Light
@@ -221,9 +221,9 @@ Stats:
   IceResistance: 100
   LightningResistance: 100
   DarkResistance: 100
-  Unknown08: -50 # Physical
-  Unknown0d: -50 # Light
-  GeneralResistance: -50 # Universal
+  Unknown08: 100 # Physical
+  Unknown0d: 100 # Light
+  GeneralResistance: 100 # Universal
   Unknown: 0
 # Mysterious Abyss
 - Id: 139
@@ -233,7 +233,7 @@ Stats:
   Magic: 15
   Defense: 0
   FireResistance: 100
-  IceResistance: -50
+  IceResistance: 100
   LightningResistance: 100
   DarkResistance: 100
   Unknown08: 100 # Physical
@@ -262,7 +262,7 @@ Stats:
   Attack: 7
   Magic: 15
   Defense: 0
-  FireResistance: -50
+  FireResistance: 100
   IceResistance: 100
   LightningResistance: 100
   DarkResistance: 100
@@ -311,7 +311,7 @@ Stats:
   IceResistance: 100
   LightningResistance: 100
   DarkResistance: 100
-  Unknown08: -50 # Physical
+  Unknown08: 100 # Physical
   Unknown0d: 100 # Light
   GeneralResistance: 100 # Universal
   Unknown: 0
@@ -327,8 +327,8 @@ Stats:
   LightningResistance: 100
   DarkResistance: 100
   Unknown08: 100 # Physical
-  Unknown0d: -50 # Light
-  GeneralResistance: -50 # Universal
+  Unknown0d: 100 # Light
+  GeneralResistance: 100 # Universal
   Unknown: 0
 # Winner's Proof
 - Id: 149
