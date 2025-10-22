@@ -9942,7 +9942,7 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/hb05/m_11.yml
+    - name: files\ard\hb05\m_11.yml
 - name: ard/hb27.ard #Room of Sleep
   multi:
   - name: ard/jp/hb27.ard
@@ -9957,19 +9957,19 @@ assets:
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/hb27/m_00.yml
+    - name: files\ard\hb27\m_00.yml
   - name: m_10 #Door to Ansem's Study
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/hb27/m_10.yml
+    - name: files\ard\hb27\m_10.yml
   - name: m_11 #Failsafe
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/hb27/m_11.yml
+    - name: files\ard\hb27\m_11.yml
   - name: m_70 #Chest
     type: areadataspawn
     method: spawnpoint
     source:
-    - name: ard/hb27/m_70.yml
+    - name: files\ard\hb27\m_70.yml
