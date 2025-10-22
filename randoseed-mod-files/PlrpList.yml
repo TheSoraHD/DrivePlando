@@ -1,5 +1,5 @@
 - AccessorySlotMax: 1
-  Ap: 50
+  Ap: 250
   ArmorSlotMax: 1
   Character: 1
   Hp: 1
@@ -11,7 +11,7 @@
   - 564
   - 102
   - 106
-  - 138
+  - 0
   - 0
   - 0
   - 0
@@ -93,7 +93,7 @@
   - 0
   - 0
 - AccessorySlotMax: 1
-  Ap: 0
+  Ap: 13
   ArmorSlotMax: 1
   Character: 2
   Hp: 18
@@ -187,7 +187,7 @@
   - 0
   - 0
 - AccessorySlotMax: 1
-  Ap: 0
+  Ap: 13
   ArmorSlotMax: 1
   Character: 3
   Hp: 28
