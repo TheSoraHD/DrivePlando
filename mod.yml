@@ -9928,3 +9928,48 @@ assets:
   method: copy
   source:
   - name: randoseed-mod-files/better_stt/B_EX100_SR.mset
+- name: ard/hb05.ard #Ansem's Study (Room of Sleep Warp)
+  multi:
+  - name: ard/jp/hb05.ard
+  - name: ard/us/hb05.ard
+  - name: ard/fr/hb05.ard
+  - name: ard/gr/hb05.ard
+  - name: ard/it/hb05.ard
+  - name: ard/sp/hb05.ard
+  method: binarc
+  source:
+  - name: m_11 #Door to Room of Sleep
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb05/m_11.yml
+- name: ard/hb27.ard #Room of Sleep
+  multi:
+  - name: ard/jp/hb27.ard
+  - name: ard/us/hb27.ard
+  - name: ard/fr/hb27.ard
+  - name: ard/gr/hb27.ard
+  - name: ard/it/hb27.ard
+  - name: ard/sp/hb27.ard
+  method: binarc
+  source:
+  - name: m_00 #Party Spawn
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb27/m_00.yml
+  - name: m_10 #Door to Ansem's Study
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb27/m_10.yml
+  - name: m_11 #Failsafe
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb27/m_11.yml
+  - name: m_70 #Chest
+    type: areadataspawn
+    method: spawnpoint
+    source:
+    - name: ard/hb27/m_70.yml
