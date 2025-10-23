@@ -327,73 +327,73 @@
 256:
   ItemId: 43 # The HBRC (A), Membership Card is now Oblivion
 257:
-  ItemId: 374 # The Hero Who Saved the Day, Hidden Dragon is now EMPTY
+  ItemId: 471 # The Hero Who Saved the Day, Hidden Dragon is now Max MP Up
 258:
-  ItemId: 374 # Lost Memories, Baseball Charm is now EMPTY
+  ItemId: 471 # Lost Memories, Baseball Charm is now Max MP Up
 260:
-  ItemId: 374 # The Aftermath, Hero's Crest is now EMPTY
+  ItemId: 471 # The Aftermath, Hero's Crest is now Max MP Up
 261:
-  ItemId: 374 # Steamboat Willie, Monochrome is now EMPTY
+  ItemId: 471 # Steamboat Willie, Monochrome is now Max MP Up
 262:
-  ItemId: 374 # The Castle Is Secure, Wisdom Form is now EMPTY
+  ItemId: 471 # The Castle Is Secure, Wisdom Form is now Max MP Up
 263:
-  ItemId: 374 # Parting Ways, Follow the Wind is now EMPTY
+  ItemId: 471 # Parting Ways, Follow the Wind is now Max MP Up
 265:
   ItemId: 22 # The Trophy's Crystals (A), Oathkeeper is now Blizzard
 266:
-  ItemId: 374 # The Doodle On The Wall, Master Form is now EMPTY
+  ItemId: 471 # The Doodle On The Wall, Master Form is now Max MP Up
 269:
   ItemId: 74 # A Box of Memories (A), Ice Cream is now Identity Disk
 270:
-  ItemId: 374 # Don't Give Up, Rumbling Rose is now EMPTY
+  ItemId: 471 # Don't Give Up, Rumbling Rose is now Max MP Up
 272:
-  ItemId: 374 # Good-bye, Auron, Guardian Soul is now EMPTY
+  ItemId: 471 # Good-bye, Auron, Guardian Soul is now Max MP Up
 275:
   ItemId: 32 # The Experiment, Decisive Pumpkin is now Torn Page
 276:
-  ItemId: 374 # Loading Data, Sleeping Lion is now EMPTY
+  ItemId: 471 # Loading Data, Sleeping Lion is now Max MP Up
 278:
   ItemId: 73 # It's You! (A), Oblivion is now Way to the Dawn
 279:
-  ItemId: 374 # Our Worlds Are All Connected (A), Blizzard is now EMPTY
+  ItemId: 471 # Our Worlds Are All Connected (A), Blizzard is now Max MP Up
 282:
-  ItemId: 374 # The Battle, Fenrir is now EMPTY
+  ItemId: 471 # The Battle, Fenrir is now Max MP Up
 285:
   ItemId: 73 # I'll Always Be With You (A), Cure is now Way to the Dawn
 286:
-  ItemId: 374 # The Fairies' Gift (B), Valor Form is now EMPTY
+  ItemId: 471 # The Fairies' Gift (B), Valor Form is now Max MP Up
 287:
-  ItemId: 374 # Ursala's Defeat, Mysterious Abyss is now EMPTY
+  ItemId: 471 # Ursala's Defeat, Mysterious Abyss is now Max MP Up
 290:
-  ItemId: 374 # His Majesty, the King (A), Munny Pouch (Mickey) is now EMPTY
+  ItemId: 471 # His Majesty, the King (A), Munny Pouch (Mickey) is now Max MP Up
 291:
-  ItemId: 374 # His Majesty, the King (B), Crystal Orb is now EMPTY
+  ItemId: 471 # His Majesty, the King (B), Crystal Orb is now Max MP Up
 292:
   ItemId: 42 # The HBRC (B), Blizzard is now Oathkeeper
 293:
   ItemId: 491 # Regained Power (A), Olympus Stone is now Guardian Soul
 294:
-  ItemId: 374 # Saix Makes an Appearance, Seifer's Trophy is now EMPTY
+  ItemId: 471 # Saix Makes an Appearance, Seifer's Trophy is now Max MP Up
 295:
-  ItemId: 374 # Foe vs. Foe, Auron's Statue is now EMPTY
+  ItemId: 471 # Foe vs. Foe, Auron's Statue is now Max MP Up
 296:
-  ItemId: 374 # Captain Elizabeth (A), Cursed Medallion is now EMPTY
+  ItemId: 471 # Captain Elizabeth (A), Cursed Medallion is now Max MP Up
 297:
-  ItemId: 374 # The Case Isn't Closed, Present is now EMPTY
+  ItemId: 471 # The Case Isn't Closed, Present is now Max MP Up
 298:
-  ItemId: 374 # Presents Full of Love, Decoy Presents is now EMPTY
+  ItemId: 471 # Presents Full of Love, Decoy Presents is now Max MP Up
 299:
   ItemId: 490 # Things Are Just Beginning, Cure is now Rumbling Rose
 300:
-  ItemId: 374 # See You Again, Lamp Charm is now EMPTY
+  ItemId: 471 # See You Again, Lamp Charm is now Max MP Up
 301:
   ItemId: 493 # Oogie's Demise, Magnet is now Decisive Pumpkin
 302:
-  ItemId: 374 # A New King, Fire is now EMPTY
+  ItemId: 471 # A New King, Fire is now Max MP Up
 303:
-  ItemId: 374 # Cosmic Razzle Dazzle, Wishing Lamp is now EMPTY
+  ItemId: 471 # Cosmic Razzle Dazzle, Wishing Lamp is now Max MP Up
 304:
-  ItemId: 374 # The Fairies' Gift (A), Star Seeker is now EMPTY
+  ItemId: 471 # The Fairies' Gift (A), Star Seeker is now Max MP Up
 305:
   ItemId: 7 # Borough, Mythril Shard is now Megalixir
 307:
@@ -413,13 +413,13 @@
 316:
   ItemId: 133 # Pit Cell, Pit Cell Area Map is now Shock Charm+
 317:
-  ItemId: 374 # His Last Words, Bond of Flame is now EMPTY
+  ItemId: 471 # His Last Words, Bond of Flame is now Max MP Up
 325:
-  ItemId: 374 # Don't Give Up, Castle Walls Map is now EMPTY
+  ItemId: 471 # Don't Give Up, Castle Walls Map is now Max MP Up
 329:
   ItemId: 486 # Run!, Isla de Muerta Map is now Follow the Wind
 331:
-  ItemId: 374 # Captain Elizabeth (B), Ship Graveyard Map is now EMPTY
+  ItemId: 471 # Captain Elizabeth (B), Ship Graveyard Map is now Max MP Up
 332:
   ItemId: 81 # Queen Minnie, Disney Castle Map is now Kingdom Key D
 335:
@@ -433,7 +433,7 @@
 353:
   ItemId: 492 # Accidental Help, Agrabah Map is now Wishing Lamp
 361:
-  ItemId: 374 # Goofy's Awake!, Cure is now EMPTY
+  ItemId: 471 # Goofy's Awake!, Cure is now Max MP Up
 362:
   ItemId: 494 # The Great Ninja Yuffie, Marketplace Map is now Sleeping Lion
 367:
@@ -479,7 +479,7 @@
 391:
   ItemId: 66 # Memory's Skyscraper, Mythril Crystal is now Full Bloom+
 417:
-  ItemId: 374 # Ping's Training, AP Boost is now EMPTY
+  ItemId: 471 # Ping's Training, AP Boost is now Max MP Up
 420:
   ItemId: 275 # Tram Common, Hi-Potion is now High Drive Recovery
 421:
@@ -557,7 +557,7 @@
 484:
   ItemId: 396 # Tram Common, Potion is now Damage Drive
 485:
-  ItemId: 374 # We Were So Worried (B), Spooky Cave Map is now EMPTY
+  ItemId: 471 # We Were So Worried (B), Spooky Cave Map is now Max MP Up
 486:
   ItemId: 133 # Ruined Chamber, Ruins Map is now Shock Charm+
 487:
@@ -569,9 +569,9 @@
 491:
   ItemId: 422 # Postern, Gull Wing is now MP Hastega
 495:
-  ItemId: 374 # Mountain Climb, Village Area Map is now EMPTY
+  ItemId: 471 # Mountain Climb, Village Area Map is now Max MP Up
 496:
-  ItemId: 374 # It's You! (B), Castle That Never Was Map is now EMPTY
+  ItemId: 471 # It's You! (B), Castle That Never Was Map is now Max MP Up
 497:
   ItemId: 397 # Bamboo Grove, Ether is now Drive Boost
 498:
@@ -595,11 +595,11 @@
 507:
   ItemId: 275 # Restoration Site, AP Boost is now High Drive Recovery
 511:
-  ItemId: 374 # A Box of Memories (B), Picture is now EMPTY
+  ItemId: 471 # A Box of Memories (B), Picture is now Max MP Up
 516:
-  ItemId: 374 # Goddess of Fate Cup (A), Fatal Crest is now EMPTY
+  ItemId: 471 # Goddess of Fate Cup (A), Fatal Crest is now Max MP Up
 517:
-  ItemId: 374 # Goddess of Fate Cup (B), Orichalcum+ is now EMPTY
+  ItemId: 471 # Goddess of Fate Cup (B), Orichalcum+ is now Max MP Up
 520:
   ItemId: 3 # Palace Walls, Mythril Stone is now Ether
 521:
@@ -611,71 +611,71 @@
 524:
   ItemId: 304 # Memory's Skyscraper, Mythril Stone is now Ribbon
 525:
-  ItemId: 374 # Xemnas's Agenda, Secret Ansem's Report 1 is now EMPTY
+  ItemId: 471 # Xemnas's Agenda, Secret Ansem's Report 1 is now Max MP Up
 526:
-  ItemId: 374 # His Majesty, the King (C), Secret Ansem's Report 2 is now EMPTY
+  ItemId: 471 # His Majesty, the King (C), Secret Ansem's Report 2 is now Max MP Up
 527:
-  ItemId: 374 # On Our Way, Secret Ansem's Report 3 is now EMPTY
+  ItemId: 471 # On Our Way, Secret Ansem's Report 3 is now Max MP Up
 528:
   ItemId: 32 # Xaldin's Demise, Secret Ansem's Report 4 is now Torn Page
 529:
   ItemId: 497 # Regained Power (B), Secret Ansem's Report 5 is now Fatal Crest
 530:
-  ItemId: 374 # Luxord Flees, Secret Ansem's Report 6 is now EMPTY
+  ItemId: 471 # Luxord Flees, Secret Ansem's Report 6 is now Max MP Up
 531:
-  ItemId: 374 # Organization XIII, Secret Ansem's Report 7 is now EMPTY
+  ItemId: 471 # Organization XIII, Secret Ansem's Report 7 is now Max MP Up
 532:
-  ItemId: 374 # Time to Sleep (B), Secret Ansem's Report 8 is now EMPTY
+  ItemId: 471 # Time to Sleep (B), Secret Ansem's Report 8 is now Max MP Up
 533:
   ItemId: 595 # As the Battle Ends, Secret Ansem's Report 9 is now Proof of Peace
 534:
-  ItemId: 374 # Roxas's Twilight Town, Secret Ansem's Report 10 is now EMPTY
+  ItemId: 471 # Roxas's Twilight Town, Secret Ansem's Report 10 is now Max MP Up
 535:
-  ItemId: 374 # Back to His Old Self, Secret Ansem's Report 11 is now EMPTY
+  ItemId: 471 # Back to His Old Self, Secret Ansem's Report 11 is now Max MP Up
 536:
   ItemId: 594 # A Friend Within, Secret Ansem's Report 12 is now Proof of Nonexistence
 537:
   ItemId: 593 # The Door to Kingdom Hearts, Secret Ansem's Report 13 is now Proof of Connection
 538:
-  ItemId: 374 # Our Worlds Are All Connected (B), Orichalcum+ is now EMPTY
+  ItemId: 471 # Our Worlds Are All Connected (B), Orichalcum+ is now Max MP Up
 539:
-  ItemId: 374 # I'll Always Be With You (B), Orichalcum+ is now EMPTY
+  ItemId: 471 # I'll Always Be With You (B), Orichalcum+ is now Max MP Up
 543:
-  ItemId: 374 # The Trophy's Crystals (B), Limit Form is now EMPTY
+  ItemId: 471 # The Trophy's Crystals (B), Limit Form is now Max MP Up
 544:
-  ItemId: 374 # Vexen (Absent Silhouette), Road to Discovery is now EMPTY
+  ItemId: 471 # Vexen (Absent Silhouette), Road to Discovery is now Max MP Up
 545:
-  ItemId: 374 # Lexaeus (Absent Silhouette), Strength Beyond Strength is now EMPTY
+  ItemId: 471 # Lexaeus (Absent Silhouette), Strength Beyond Strength is now Max MP Up
 546:
-  ItemId: 374 # Zexion (Absent Silhouette), Book of Shadows is now EMPTY
+  ItemId: 471 # Zexion (Absent Silhouette), Book of Shadows is now Max MP Up
 547:
-  ItemId: 374 # Larxene (Absent Silhouette), Cloaked Thunder is now EMPTY
+  ItemId: 471 # Larxene (Absent Silhouette), Cloaked Thunder is now Max MP Up
 548:
-  ItemId: 374 # Marluxia (Absent Silhouette), Eternal Blossom is now EMPTY
+  ItemId: 471 # Marluxia (Absent Silhouette), Eternal Blossom is now Max MP Up
 549:
-  ItemId: 374 # Vexen (Data), Lost Illusion is now EMPTY
+  ItemId: 471 # Vexen (Data), Lost Illusion is now Max MP Up
 550:
-  ItemId: 374 # Lexaeus (Data), Lost Illusion is now EMPTY
+  ItemId: 471 # Lexaeus (Data), Lost Illusion is now Max MP Up
 551:
-  ItemId: 374 # Zexion (Data), Lost Illusion is now EMPTY
+  ItemId: 471 # Zexion (Data), Lost Illusion is now Max MP Up
 552:
-  ItemId: 374 # Larxene (Data), Lost Illusion is now EMPTY
+  ItemId: 471 # Larxene (Data), Lost Illusion is now Max MP Up
 553:
-  ItemId: 374 # Marluxia (Data), Lost Illusion is now EMPTY
+  ItemId: 471 # Marluxia (Data), Lost Illusion is now Max MP Up
 554:
-  ItemId: 374 # Xemnas (Data), Power Boost is now EMPTY
+  ItemId: 471 # Xemnas (Data), Power Boost is now Max MP Up
 555:
-  ItemId: 374 # Xigbar (Data), Defense Boost is now EMPTY
+  ItemId: 471 # Xigbar (Data), Defense Boost is now Max MP Up
 556:
-  ItemId: 374 # Saix (Data), Defense Boost is now EMPTY
+  ItemId: 471 # Saix (Data), Defense Boost is now Max MP Up
 557:
-  ItemId: 374 # Luxord (Data), AP Boost is now EMPTY
+  ItemId: 471 # Luxord (Data), AP Boost is now Max MP Up
 559:
-  ItemId: 374 # Xaldin (Data), Defense Boost is now EMPTY
+  ItemId: 471 # Xaldin (Data), Defense Boost is now Max MP Up
 560:
-  ItemId: 374 # Demyx (Data), AP Boost is now EMPTY
+  ItemId: 471 # Demyx (Data), AP Boost is now Max MP Up
 561:
-  ItemId: 374 # Axel (Data), Magic Boost is now EMPTY
+  ItemId: 471 # Axel (Data), Magic Boost is now Max MP Up
 562:
   ItemId: 276 # Depths, AP Boost is now Power Boost
 563:
@@ -723,12 +723,12 @@
 586:
   ItemId: 563 # Garden of Assemblage, Lost Illusion is now Limit Form
 587:
-  ItemId: 374 # Lingering Will (A), Proof of Connection is now EMPTY
+  ItemId: 471 # Lingering Will (A), Proof of Connection is now Max MP Up
 588:
-  ItemId: 374 # Mushroom XIII (B), Winner's Proof is now EMPTY
+  ItemId: 471 # Mushroom XIII (B), Winner's Proof is now Max MP Up
 589:
-  ItemId: 374 # Mushroom XIII (A), Proof of Peace is now EMPTY
+  ItemId: 471 # Mushroom XIII (A), Proof of Peace is now Max MP Up
 590:
   ItemId: 31 # Garden of Assemblage, Proof of Nonexistence is now Master Form
 591:
-  ItemId: 374 # Lingering Will (B), Manifest Illusion is now EMPTY
+  ItemId: 471 # Lingering Will (B), Manifest Illusion is now Max MP Up
