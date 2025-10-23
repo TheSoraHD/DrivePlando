@@ -2,215 +2,215 @@ Valor:
 - FormId: 0
   FormLevel: 1
   Ability: 375 # Valor LV21, Auto Valor is now Ice Cream
-  Experience: 80
+  Experience: 27
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 2
   Ability: 375 # Valor LV2, Auto Valor is now Ice Cream
-  Experience: 160 # 160 experience is now required to reach Valor LV2
+  Experience: 54 # 160 experience is now required to reach Valor LV2
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 3
   Ability: 390 # Valor LV3, High Jump LV 1 is now Combo Boost
-  Experience: 280 # 280 experience is now required to reach Valor LV3
+  Experience: 94 # 280 experience is now required to reach Valor LV3
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 4
   Ability: 369 # Valor LV4, Combo Plus is now Membership Card
-  Experience: 448 # 448 experience is now required to reach Valor LV4
+  Experience: 150 # 448 experience is now required to reach Valor LV4
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 5
   Ability: 391 # Valor LV5, High Jump LV 2 is now Air Combo Boost
-  Experience: 560 # 560 experience is now required to reach Valor LV5
+  Experience: 187 # 560 experience is now required to reach Valor LV5
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 6
   Ability: 55 # Valor LV6, Combo Plus is now Sword of the Ancestor
-  Experience: 672 # 672 experience is now required to reach Valor LV6
+  Experience: 224 # 672 experience is now required to reach Valor LV6
   GrowthAbilityLevel: 0
 - FormId: 0
   FormLevel: 7
   Ability: 59 # Valor LV7, High Jump LV 3 is now Beast's Claw
-  Experience: 672
+  Experience: 224
   GrowthAbilityLevel: 0
 Wisdom:
 - FormId: 1
   FormLevel: 1
   Ability: 370 # Wisdom LV21, Auto Wisdom is now Olympus Stone
-  Experience: 20
+  Experience: 7
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 2
   Ability: 370 # Wisdom LV2, Auto Wisdom is now Olympus Stone
-  Experience: 60 # 60 experience is now required to reach Wisdom LV2
+  Experience: 20 # 60 experience is now required to reach Wisdom LV2
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 3
   Ability: 54 # Wisdom LV3, Quick Run LV 1 is now Battlefields of War
-  Experience: 72 # 72 experience is now required to reach Wisdom LV3
+  Experience: 24 # 72 experience is now required to reach Wisdom LV3
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 4
   Ability: 460 # Wisdom LV4, MP Rage is now Royal Summons
-  Experience: 90 # 90 experience is now required to reach Wisdom LV4
+  Experience: 30 # 90 experience is now required to reach Wisdom LV4
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 5
   Ability: 409 # Wisdom LV5, Quick Run LV 2 is now Blizzard Boost
-  Experience: 108 # 108 experience is now required to reach Wisdom LV5
+  Experience: 36 # 108 experience is now required to reach Wisdom LV5
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 6
   Ability: 62 # Wisdom LV6, MP Haste is now Skill and Crossbones
-  Experience: 150 # 150 experience is now required to reach Wisdom LV6
+  Experience: 50 # 150 experience is now required to reach Wisdom LV6
   GrowthAbilityLevel: 0
 - FormId: 1
   FormLevel: 7
   Ability: 60 # Wisdom LV7, Quick Run LV 3 is now Bone Fist
-  Experience: 150
+  Experience: 50
   GrowthAbilityLevel: 0
 Limit:
 - FormId: 2
   FormLevel: 1
   Ability: 72 # Limit LV21, Auto Limit is now Scimitar
-  Experience: 3
+  Experience: 1
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 2
   Ability: 72 # Limit LV2, Auto Limit is now Scimitar
-  Experience: 6 # 6 experience is now required to reach Limit LV2
+  Experience: 2 # 6 experience is now required to reach Limit LV2
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 3
   Ability: 162 # Limit LV3, Dodge Roll LV 1 is now Combo Plus
-  Experience: 12 # 12 experience is now required to reach Limit LV3
+  Experience: 4 # 12 experience is now required to reach Limit LV3
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 4
   Ability: 397 # Limit LV4, Draw is now Drive Boost
-  Experience: 19 # 19 experience is now required to reach Limit LV4
+  Experience: 7 # 19 experience is now required to reach Limit LV4
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 5
   Ability: 163 # Limit LV5, Dodge Roll LV 2 is now Air Combo Plus
-  Experience: 23 # 23 experience is now required to reach Limit LV5
+  Experience: 8 # 23 experience is now required to reach Limit LV5
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 6
   Ability: 375 # Limit LV6, Lucky Lucky is now Ice Cream
-  Experience: 36 # 36 experience is now required to reach Limit LV6
+  Experience: 12 # 36 experience is now required to reach Limit LV6
   GrowthAbilityLevel: 0
 - FormId: 2
   FormLevel: 7
   Ability: 369 # Limit LV7, Dodge Roll LV 3 is now Membership Card
-  Experience: 36
+  Experience: 12
   GrowthAbilityLevel: 0
 Master:
 - FormId: 3
   FormLevel: 1
   Ability: 55 # Master LV21, Auto Master is now Sword of the Ancestor
-  Experience: 60
+  Experience: 20
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 2
   Ability: 55 # Master LV2, Auto Master is now Sword of the Ancestor
-  Experience: 180 # 180 experience is now required to reach Master LV2
+  Experience: 60 # 180 experience is now required to reach Master LV2
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 3
   Ability: 401 # Master LV3, Aerial Dodge LV 1 is now Experience Boost
-  Experience: 216 # 216 experience is now required to reach Master LV3
+  Experience: 72 # 216 experience is now required to reach Master LV3
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 4
   Ability: 59 # Master LV4, Air Combo Plus is now Beast's Claw
-  Experience: 270 # 270 experience is now required to reach Master LV4
+  Experience: 90 # 270 experience is now required to reach Master LV4
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 5
   Ability: 392 # Master LV5, Aerial Dodge LV 2 is now Reaction Boost
-  Experience: 324 # 324 experience is now required to reach Master LV5
+  Experience: 108 # 324 experience is now required to reach Master LV5
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 6
   Ability: 54 # Master LV6, Air Combo Plus is now Battlefields of War
-  Experience: 450 # 450 experience is now required to reach Master LV6
+  Experience: 150 # 450 experience is now required to reach Master LV6
   GrowthAbilityLevel: 0
 - FormId: 3
   FormLevel: 7
   Ability: 460 # Master LV7, Aerial Dodge LV 3 is now Royal Summons
-  Experience: 450
+  Experience: 150
   GrowthAbilityLevel: 0
 Final:
 - FormId: 4
   FormLevel: 1
   Ability: 62 # Final LV21, Auto Final is now Skill and Crossbones
-  Experience: 12
+  Experience: 4
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 2
   Ability: 62 # Final LV2, Auto Final is now Skill and Crossbones
-  Experience: 24 # 24 experience is now required to reach Final LV2
+  Experience: 8 # 24 experience is now required to reach Final LV2
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 3
   Ability: 394 # Final LV3, Glide LV 1 is now Negative Combo
-  Experience: 48 # 48 experience is now required to reach Final LV3
+  Experience: 16 # 48 experience is now required to reach Final LV3
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 4
   Ability: 60 # Final LV4, Form Boost is now Bone Fist
-  Experience: 76 # 76 experience is now required to reach Final LV4
+  Experience: 26 # 76 experience is now required to reach Final LV4
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 5
   Ability: 393 # Final LV5, Glide LV 2 is now Finishing Plus
-  Experience: 133 # 133 experience is now required to reach Final LV5
+  Experience: 45 # 133 experience is now required to reach Final LV5
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 6
   Ability: 398
-  Experience: 157 # 157 experience is now required to reach Final LV6
+  Experience: 53 # 157 experience is now required to reach Final LV6
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 7
   Ability: 72 # Final LV7, Glide LV 3 is now Scimitar
-  Experience: 157
+  Experience: 53
   GrowthAbilityLevel: 0
 Summon:
 - FormId: 5
   FormLevel: 1
   Ability: 0
-  Experience: 6
+  Experience: 2
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 2
   Ability: 0
-  Experience: 16 # 16 experience is now required to reach Summon LV2
+  Experience: 6 # 16 experience is now required to reach Summon LV2
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 3
   Ability: 0
-  Experience: 25 # 25 experience is now required to reach Summon LV3
+  Experience: 9 # 25 experience is now required to reach Summon LV3
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 4
   Ability: 0
-  Experience: 42 # 42 experience is now required to reach Summon LV4
+  Experience: 14 # 42 experience is now required to reach Summon LV4
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 5
   Ability: 0
-  Experience: 63 # 63 experience is now required to reach Summon LV5
+  Experience: 21 # 63 experience is now required to reach Summon LV5
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 6
   Ability: 0
-  Experience: 98 # 98 experience is now required to reach Summon LV6
+  Experience: 33 # 98 experience is now required to reach Summon LV6
   GrowthAbilityLevel: 0
 - FormId: 5
   FormLevel: 7
   Ability: 0
-  Experience: 98
+  Experience: 33
   GrowthAbilityLevel: 0
