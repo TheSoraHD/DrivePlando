@@ -146,37 +146,37 @@ Final:
 - FormId: 4
   FormLevel: 1
   Ability: 62 # Final LV21, Auto Final is now Skill and Crossbones
-  Experience: 4
+  Experience: 3
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 2
   Ability: 62 # Final LV2, Auto Final is now Skill and Crossbones
-  Experience: 8 # 24 experience is now required to reach Final LV2
+  Experience: 6 # 24 experience is now required to reach Final LV2
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 3
   Ability: 394 # Final LV3, Glide LV 1 is now Negative Combo
-  Experience: 16 # 48 experience is now required to reach Final LV3
+  Experience: 12 # 48 experience is now required to reach Final LV3
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 4
   Ability: 60 # Final LV4, Form Boost is now Bone Fist
-  Experience: 26 # 76 experience is now required to reach Final LV4
+  Experience: 21 # 76 experience is now required to reach Final LV4
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 5
   Ability: 393 # Final LV5, Glide LV 2 is now Finishing Plus
-  Experience: 45 # 133 experience is now required to reach Final LV5
+  Experience: 33 # 133 experience is now required to reach Final LV5
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 6
   Ability: 398
-  Experience: 53 # 157 experience is now required to reach Final LV6
+  Experience: 45 # 157 experience is now required to reach Final LV6
   GrowthAbilityLevel: 0
 - FormId: 4
   FormLevel: 7
   Ability: 72 # Final LV7, Glide LV 3 is now Scimitar
-  Experience: 53
+  Experience: 45
   GrowthAbilityLevel: 0
 Summon:
 - FormId: 5
