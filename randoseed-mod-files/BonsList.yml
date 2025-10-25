@@ -281,8 +281,8 @@
     CharacterId: 1
     BonusItem1: 0 # EMPTY
     BonusItem2: 0 # EMPTY
-    HpIncrease: 5
-    MpIncrease: 0
+    HpIncrease: 0
+    MpIncrease: 5
     ArmorSlotUpgrade: 0
     AccessorySlotUpgrade: 0
     ItemSlotUpgrade: 0
